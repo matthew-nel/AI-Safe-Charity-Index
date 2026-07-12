@@ -11,8 +11,8 @@ version: "0.1.0"
 last_reviewed: "2026-07-12"
 next_review: "2026-10-01"
 evidence_level: "high"
-owner: "Matthew James Nel"
-maintainer: "Matthew James Nel"
+owner: "Matthew Nel"
+maintainer: "Matthew Nel"
 tags: ["retention", "security", "breaches", "incident-response"]
 source_ids: ["ICO-BREACH-001", "ICO-AI-SEC-001", "NCSC-AI-001"]
 claim_ids: ["LAW-06"]

@@ -11,8 +11,8 @@ version: "0.1.0"
 last_reviewed: "2026-07-12"
 next_review: "2026-10-01"
 evidence_level: "foundation"
-owner: "Matthew James Nel"
-maintainer: "Matthew James Nel"
+owner: "Matthew Nel"
+maintainer: "Matthew Nel"
 tags: ["about", "mission", "principles"]
 source_ids: []
 claim_ids: []
@@ -28,7 +28,7 @@ The project is guided by evidence, plain English, charity relevance, accessibili
 
 ## Creator
 
-AI Safe Charity Index was originally created by **Matthew James Nel**.
+AI Safe Charity Index was originally created by **Matthew Nel**.
 
 [Connect with Matthew on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
 

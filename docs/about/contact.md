@@ -11,8 +11,8 @@ version: "0.1.0"
 last_reviewed: "2026-07-12"
 next_review: "2026-10-01"
 evidence_level: "foundation"
-owner: "Matthew James Nel"
-maintainer: "Matthew James Nel"
+owner: "Matthew Nel"
+maintainer: "Matthew Nel"
 tags: ["contact", "feedback", "linkedin", "collaboration", "research"]
 source_ids: []
 claim_ids: []
@@ -20,15 +20,11 @@ claim_ids: []
 
 # Contact
 
-<div class="asc-profile-card" markdown="1">
+<div class="asc-card" markdown="1">
 
-![Matthew James Nel](../assets/images/matthew-james-nel.png){ .asc-profile-image }
+## Matthew Nel
 
-<div markdown="1">
-
-## Matthew James Nel
-
-AI Safe Charity Index was originally created by **Matthew James Nel**.
+AI Safe Charity Index was originally created by **Matthew Nel**.
 
 The project is being developed as an open, evidence-led resource for UK charities, and constructive edits, corrections and research contributions are welcome.
 
@@ -37,8 +33,6 @@ The project is being developed as an open, evidence-led resource for UK charitie
 [Connect on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
 [Contribute Research](../research-and-community/index.md){ .md-button }
 [View GitHub Project](https://github.com/matthew-nel/AI-Safe-Charity-Index){ .md-button }
-
-</div>
 
 </div>
 

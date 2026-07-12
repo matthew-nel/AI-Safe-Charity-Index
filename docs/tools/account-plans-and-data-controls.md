@@ -11,8 +11,8 @@ version: "0.1.0"
 last_reviewed: "2026-07-12"
 next_review: "2026-10-01"
 evidence_level: "high"
-owner: "Matthew James Nel"
-maintainer: "Matthew James Nel"
+owner: "Matthew Nel"
+maintainer: "Matthew Nel"
 tags: ["account-plans", "data-controls", "tools"]
 source_ids: ["OAI-ENT-001", "ANT-TRAIN-001", "GOOG-WORK-001", "MS-COP-PRIV-001"]
 claim_ids: ["CLM-015"]

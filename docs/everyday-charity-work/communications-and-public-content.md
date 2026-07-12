@@ -12,8 +12,8 @@ version: "0.1.0"
 last_reviewed: "2026-07-12"
 next_review: "2026-10-01"
 evidence_level: "mixed-primary-and-sector"
-owner: "Matthew James Nel"
-maintainer: "Matthew James Nel"
+owner: "Matthew Nel"
+maintainer: "Matthew Nel"
 tags: ["communications", "campaigns", "synthetic-media", "accessibility"]
 source_ids: ["ASA-AI-001", "GOV-COPYRIGHT-AI-001"]
 claim_ids: []

@@ -11,8 +11,8 @@ version: "0.1.0"
 last_reviewed: "2026-07-12"
 next_review: "2026-10-01"
 evidence_level: "provider-claim"
-owner: "Matthew James Nel"
-maintainer: "Matthew James Nel"
+owner: "Matthew Nel"
+maintainer: "Matthew Nel"
 tags: ["adobe-firefly", "images", "synthetic-media"]
 source_ids: ["ADB-FIRE-001", "ADB-PARTNER-001", "ADB-NP-001"]
 claim_ids: ["CLM-014"]

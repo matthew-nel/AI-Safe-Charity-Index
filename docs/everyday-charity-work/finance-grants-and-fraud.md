@@ -12,8 +12,8 @@ version: "0.1.0"
 last_reviewed: "2026-07-12"
 next_review: "2026-10-01"
 evidence_level: "high"
-owner: "Matthew James Nel"
-maintainer: "Matthew James Nel"
+owner: "Matthew Nel"
+maintainer: "Matthew Nel"
 tags: ["finance", "grants", "fraud", "payments"]
 source_ids: ["CC8-001", "NCSC-SMALL-001", "CC-RISK-2025-001"]
 claim_ids: []

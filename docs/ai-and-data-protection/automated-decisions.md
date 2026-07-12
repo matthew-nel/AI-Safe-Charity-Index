@@ -11,8 +11,8 @@ version: "0.1.0"
 last_reviewed: "2026-07-12"
 next_review: "2026-12-15"
 evidence_level: "medium"
-owner: "Matthew James Nel"
-maintainer: "Matthew James Nel"
+owner: "Matthew Nel"
+maintainer: "Matthew Nel"
 tags: ["automated-decisions", "profiling", "duaa", "human-review"]
 source_ids: ["ICO-DUAA-001", "ICO-ADM-PLAN-001", "LEG-DUAA-001"]
 claim_ids: ["CLM-004", "CLM-005"]

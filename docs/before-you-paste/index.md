@@ -11,8 +11,8 @@ version: "0.1.0"
 last_reviewed: "2026-07-12"
 next_review: "2026-10-01"
 evidence_level: "foundation"
-owner: "Matthew James Nel"
-maintainer: "Matthew James Nel"
+owner: "Matthew Nel"
+maintainer: "Matthew Nel"
 tags: ["before-you-paste", "personal-data", "safeguarding", "confidentiality"]
 source_ids: ["ICO-AI-001", "CC-AI-001", "FR-AI-001", "NCSC-AI-001"]
 claim_ids: ["CLM-001", "CLM-007", "CLM-015", "CLM-016"]

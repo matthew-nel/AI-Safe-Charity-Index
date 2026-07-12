@@ -11,8 +11,8 @@ version: "0.1.0"
 last_reviewed: "2026-07-12"
 next_review: "2026-10-01"
 evidence_level: "provider-claim"
-owner: "Matthew James Nel"
-maintainer: "Matthew James Nel"
+owner: "Matthew Nel"
+maintainer: "Matthew Nel"
 tags: ["notion-ai", "meeting-notes", "workspace-search"]
 source_ids: ["NOTION-AI-001", "NOTION-MEET-001", "NOTION-NP-001"]
 claim_ids: ["CLM-011"]
