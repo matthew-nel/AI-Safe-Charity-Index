@@ -54,3 +54,31 @@ For example, a personal paid account may not provide the same protections as a b
 - Green, Amber and Red use cases
 - human review requirements
 - known limitations
+
+## Cross-Tool Approval Matrix
+
+| Check | Why it matters |
+| --- | --- |
+| Brand | Names the service, but does not prove suitability |
+| Account plan | Determines contract, admin controls and support route |
+| Model or feature | Different features can have different data flows |
+| Training setting | Important, but only one part of the risk |
+| Retention and deletion | Shows how long prompts, files and outputs remain |
+| Connectors | Expands the tool's access beyond the chat window |
+| Actions | Shows whether the AI can send, publish, delete, spend or update |
+| Data ceiling | Defines the most sensitive information allowed |
+| Human review | Keeps accountability with a competent person |
+| Review trigger | Prevents stale approvals after provider changes |
+
+## Claims That Do Not Prove Safe Use
+
+- "It is paid."
+- "It says enterprise."
+- "It does not train on our data."
+- "It has citations."
+- "The user already has access to the files."
+- "The supplier is well known."
+- "We can delete the chat."
+- "Other charities use it."
+
+These claims may be relevant, but none of them replaces tool, plan, feature, data, purpose, contract and human-review checks.

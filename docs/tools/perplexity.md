@@ -55,6 +55,10 @@ Perplexity can help discover sources, compare public guidance and produce cited 
 
 </div>
 
+## Checked Scope
+
+Checked: 12 July 2026. Product features and terms change quickly. This page does not approve the product for your charity. Check the exact plan, account, model, feature, connectors, retention and administrator settings against your charity's approval record before use.
+
 ## Sources
 
 - [Perplexity: Data collection](https://www.perplexity.ai/help-center/en/articles/11564572-data-collection-at-perplexity.html)

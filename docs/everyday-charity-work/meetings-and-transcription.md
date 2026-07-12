@@ -26,6 +26,9 @@ AI meeting notes can save time, but recording and transcription can capture pers
 
 Do not treat transcription as a default admin feature.
 
+!!! note "Consent is context-specific"
+    Consent is not always the lawful basis for recording or transcription. The charity must identify a lawful basis, and where special category data is likely an additional condition may be needed. Even where consent is not the lawful basis, participants should normally receive clear advance notice and a workable route to raise concerns.
+
 ## Before Recording or Transcribing
 
 Check:
@@ -39,6 +42,8 @@ Check:
 - how long the recording and transcript will be kept
 - whether the tool/account is approved
 - whether the meeting is too sensitive for AI notes
+- whether participants may feel unable to object
+- how objections, alternatives or safeguarding exceptions will be handled
 
 ## Usually Lower Risk
 
@@ -59,12 +64,14 @@ Check:
 ## Controls
 
 - provide advance notice
+- explain the purpose and tool
 - restrict access to recordings and transcripts
 - avoid sensitive meetings unless specifically approved
 - set retention periods
 - check summaries for errors
 - delete recordings when no longer needed
 - record the decision for high-risk meetings
+- do not use a transcript as the official record until a responsible person has checked it
 
 ## Ask for Help When
 
@@ -73,3 +80,8 @@ Check:
 - the tool stores audio or transcript data outside your control
 - the transcript could affect an employment, safeguarding or service decision
 
+## Sources
+
+- [ICO: Guidance on video surveillance, including audio and monitoring principles](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/how-can-we-comply-with-the-data-protection-principles-when-using-surveillance-systems/)
+- [DWP: Generic recording and transcription policy](https://www.gov.uk/government/publications/dwp-procurement-security-policies-and-standards/dwp-generic-recording-and-transcription-policy)
+- [ACAS: What happens after an investigation](https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-6-what-happens-after-an-investigation)

@@ -36,6 +36,10 @@ Not necessarily. A unique story or combination of details may still identify som
 
 Sometimes, but recording and transcription change the data-processing risk. Give appropriate notice, determine the lawful and fair basis, restrict access and retention, and avoid sensitive meetings unless specifically approved.
 
+## Does everyone have to consent to AI meeting notes?
+
+Not always. Consent is context-specific and may not be the right lawful basis where people do not have a genuine choice. The charity still needs a lawful basis, clear notice, access and retention controls, and a route for objections or alternatives where appropriate.
+
 ## Can trustees use AI to make decisions?
 
 AI can assist, but trustees remain responsible and should not rely on AI output alone for material decisions.
@@ -43,3 +47,23 @@ AI can assist, but trustees remain responsible and should not rely on AI output 
 ## Are AI citations reliable?
 
 No citation should be trusted without opening the source and confirming that it supports the exact claim.
+
+## What if a connector can see all my files?
+
+Stop and ask for an approval check. A connector can expose whatever your existing permissions expose, including files that were overshared before AI was enabled.
+
+## When do we need a DPIA?
+
+Screen for a DPIA before AI use that may create high risk, especially where it involves vulnerable people, special category data, monitoring, profiling, decisions about people, large-scale data or broad connectors.
+
+## Is "not used for training" enough?
+
+No. It is useful, but you still need to check retention, deletion, subprocessors, transfers, human access, security, connectors, output risk and your own account settings.
+
+## Can volunteers use their own AI accounts?
+
+Only for charity work if the charity has explicitly approved that route. Personal accounts should not receive personal, confidential, safeguarding or internal charity information.
+
+## Can we use AI-generated images of beneficiaries?
+
+Only with care. Do not present fictional people, quotes or stories as real. Synthetic or composite content should be lawful, ethical, clearly disclosed where needed and consistent with safeguarding and communications standards.

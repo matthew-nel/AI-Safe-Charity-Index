@@ -56,6 +56,10 @@ Claude can support writing, document analysis, research, coding and sustained pr
 
 </div>
 
+## Checked Scope
+
+Checked: 12 July 2026. Product features and terms change quickly. This page does not approve the product for your charity. Check the exact plan, account, model, feature, connectors, retention and administrator settings against your charity's approval record before use.
+
 ## Sources
 
 - [Anthropic: Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training)

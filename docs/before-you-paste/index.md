@@ -59,7 +59,7 @@ Green does not mean the output is automatically accurate.
 
 ## Amber: Pause and Check
 
-Amber uses need more thought before you continue.
+Amber means pause for the documented route before you continue. Depending on the task, that may mean a manager, data-protection lead, safeguarding lead, HR, fundraising, IT/security, procurement or a DPIA screen.
 
 Pause when the task involves:
 
@@ -72,7 +72,7 @@ Pause when the task involves:
 - connected apps such as email, file storage, CRM, Slack, SharePoint, Google Drive or Notion
 - meeting transcription, donor segmentation, HR drafting or research that may influence policy
 
-Check your charity's policy, speak to the right internal lead, remove unnecessary information, and use an approved route where one exists.
+Check your charity's policy, speak to the right internal lead, remove unnecessary information, and use an approved route where one exists. A manager cannot waive data-protection, safeguarding, employment, fundraising or trustee duties.
 
 </div>
 

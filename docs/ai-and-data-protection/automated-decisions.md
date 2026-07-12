@@ -26,6 +26,8 @@ feedback_enabled: true
 
 AI can support decisions, but it must not quietly become the decision-maker for important outcomes.
 
+The DUAA changed the UK framework for automated decision-making. This page separates legal Article 22-style questions from the wider safety, fairness and accountability questions that still apply even where Article 22 is not engaged.
+
 ## Three Levels of Risk
 
 ### Assistive Use
@@ -65,9 +67,34 @@ Human involvement should be real. The person reviewing the output should have en
 - clear record of responsibility
 - special review where special category data is involved
 
+## Six-Question Route
+
+Ask these questions before using AI in any decision about a person:
+
+1. Is there personal data?
+2. Is there special category or criminal-offence data?
+3. Does the processing involve profiling, scoring, ranking, prediction or recommendation?
+4. Could the outcome have a legal or similarly significant effect?
+5. Is there meaningful human involvement before the decision takes effect?
+6. Even if the strict automated-decision rule is not triggered, is the use still lawful, fair, accurate, transparent, secure and non-discriminatory?
+
+## Example Decisions to Treat as Red
+
+- rejecting, deprioritising or scoring a service user for support
+- filtering job applicants
+- ranking grant applicants
+- flagging someone for fraud, risk or safeguarding action
+- disciplinary, grievance or performance-management recommendations
+- donor profiles that materially change treatment or contact
+
+## Review Trigger
+
+Review this page after the ICO publishes final updated automated-decision guidance following the DUAA changes.
+
 ## Sources
 
 - [ICO: The Data Use and Access Act 2025: what does it mean for organisations?](https://ico.org.uk/about-the-ico/what-we-do/legislation-we-cover/data-use-and-access-act-2025/the-data-use-and-access-act-2025-what-does-it-mean-for-organisations/)
+- [GOV.UK: Data Use and Access Act 2025 data protection and privacy changes](https://www.gov.uk/guidance/data-use-and-access-act-2025-data-protection-and-privacy-changes)
+- [ICO: Rights related to automated decision-making including profiling](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/individual-rights/rights-related-to-automated-decision-making-including-profiling/)
 - [ICO: Technology guidance plan](https://ico.org.uk/about-the-ico/what-we-do/our-plans-for-new-and-updated-guidance/technology/)
 - [Data (Use and Access) Act 2025](https://www.legislation.gov.uk/ukpga/2025/18/contents)
-

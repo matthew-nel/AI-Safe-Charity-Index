@@ -42,8 +42,17 @@ Added draft pages for DPIA triage, automated decisions, AI fundraising, meeting 
 
 Updated Before You Paste, AI and Data Protection, Governance, Tools, FAQ and Glossary using the July 2026 research batch.
 
+## July 2026 Page Population Update - 2026-07-12
+
+Added everyday-work guides for communications, beneficiary services, safeguarding, recruitment and HR, volunteers, finance and fraud, research and evaluation, translation and inclusion, and website/code/analytics.
+
+Added data-protection lifecycle pages for lawful basis and transparency, special category data and vulnerable groups, individual rights, suppliers and transfers, and retention/security/breaches.
+
+Added governance pages for AI policy ownership, trustee assurance, supplier procurement, and monitoring/change control. Expanded incidents, tool approvals, agents/connectors, account-plan checks, FAQ and glossary.
+
 Known limitations:
 
 - automated-decision guidance remains interim pending final ICO guidance
 - high-risk GDPR, safeguarding, HR and fundraising scenarios require human or specialist review
 - provider claims must be rechecked against current official documentation before procurement
+- new page-population content is draft pending legal, safeguarding, employment/equality and security review

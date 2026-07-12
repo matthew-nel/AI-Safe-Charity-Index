@@ -54,6 +54,10 @@ Microsoft Copilot can work across Microsoft 365, including Word, Excel, PowerPoi
 
 </div>
 
+## Checked Scope
+
+Checked: 12 July 2026. Product features and terms change quickly. This page does not approve the product for your charity. Check the exact plan, account, model, feature, connectors, retention and administrator settings against your charity's approval record before use.
+
 ## Sources
 
 - [Microsoft: Data, privacy and security for Microsoft 365 Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-privacy)

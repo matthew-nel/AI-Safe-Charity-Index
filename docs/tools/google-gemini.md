@@ -55,6 +55,10 @@ Google Gemini may be used as a personal app or through Google Workspace. These a
 
 </div>
 
+## Checked Scope
+
+Checked: 12 July 2026. Product features and terms change quickly. This page does not approve the product for your charity. Check the exact plan, account, model, feature, connectors, retention and administrator settings against your charity's approval record before use.
+
 ## Sources
 
 - [Google: Gemini Apps Privacy Hub](https://support.google.com/gemini/answer/13594961)

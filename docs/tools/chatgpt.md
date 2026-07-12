@@ -57,6 +57,10 @@ ChatGPT can help with writing, editing, summarising, planning, research support,
 
 </div>
 
+## Checked Scope
+
+Checked: 12 July 2026. Product features and terms change quickly. This page does not approve the product for your charity. Check the exact plan, account, model, feature, connectors, retention and administrator settings against your charity's approval record before use.
+
 ## Sources
 
 - [OpenAI: Enterprise privacy](https://openai.com/enterprise-privacy/)

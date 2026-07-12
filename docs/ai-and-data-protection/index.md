@@ -26,23 +26,31 @@ UK data-protection law is technology-neutral. If an AI use processes personal da
 
 ## July 2026 Position
 
-The Data (Use and Access) Act 2025 amended the UK GDPR, Data Protection Act 2018 and PECR. The ICO says all data-protection provisions in the DUAA are now in force.
+The Data (Use and Access) Act 2025 amended the UK GDPR, Data Protection Act 2018 and PECR. The main DUAA data-protection and privacy changes relevant to most charities are now in force, but commencement was staged and current ICO guidance should be checked for the provision in question.
 
 The DUAA does not make AI automatically safe or compliant. It changes some rules and creates some opportunities, but charities still need a lawful basis, fairness, transparency, security, minimisation and safeguards.
 
-## What Charities Should Check
+## The Lifecycle to Check
 
-Before using AI with personal data, check:
+Before using AI with personal data, check the full lifecycle:
 
+- the purpose of the use, before choosing the tool
 - what personal data is involved
 - whether special category or criminal-offence data is involved
 - whether children or adults at risk could be affected
+- whether the charity is controller, joint controller or processor
+- whether the provider is a processor, controller or another role
 - whether the use is necessary and proportionate
 - whether the tool and account are approved
 - whether a Data Processing Agreement or other contract is needed
 - whether the use is likely to need a DPIA
 - whether people need to be told about the use
 - whether the output could affect someone significantly
+- how records, prompts, outputs, logs and recordings will be retained or deleted
+- what incident route applies if something goes wrong
+
+!!! note "A purpose is not just 'using AI'"
+    A purpose is something specific, such as drafting public event copy, transcribing an advisory-group meeting, or summarising survey themes. Development, testing and live deployment may need separate checks.
 
 ## Personal Data and Pseudonymisation
 
@@ -52,8 +60,13 @@ Pseudonymised information can remain personal data where it can be reconnected t
 
 ## Pages in This Section
 
+- [Lawful basis and transparency](lawful-basis-and-transparency.md)
+- [Special category, children and vulnerability](special-category-children-and-vulnerability.md)
 - [DPIA triage for AI](dpia-triage.md)
 - [Automated decisions and profiling](automated-decisions.md)
+- [Individual rights](individual-rights.md)
+- [Suppliers, transfers and contracts](suppliers-transfers-and-contracts.md)
+- [Retention, security and breaches](retention-security-and-breaches.md)
 
 ## Sources
 

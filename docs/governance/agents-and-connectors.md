@@ -49,6 +49,45 @@ Risk increases when AI can:
 - create a kill switch or rollback process
 - review incidents and near misses
 
+## Map the Chain
+
+Before enabling a connector or agent, map:
+
+| Layer | Question |
+| --- | --- |
+| Identity | Which user, service account or workspace identity acts? |
+| Data source | Which folders, mailboxes, databases or systems can it read? |
+| Model | Which model or provider processes the data? |
+| Action | Can it write, send, publish, delete, pay or change records? |
+| External recipient | Could data or output leave the charity? |
+| Logs | Where are prompts, outputs, actions and errors recorded? |
+
+Approve read and write scopes separately.
+
+## Prompt Injection and Poisoned Content
+
+An agent may follow instructions hidden inside emails, webpages, PDFs or shared documents. Treat untrusted content as potentially hostile.
+
+Test whether the agent can be tricked into:
+
+- revealing confidential information
+- ignoring system or policy instructions
+- sending data to an external address
+- taking an action without approval
+- using a document as an instruction rather than as evidence
+
+## Pre-Launch Test
+
+Before launch:
+
+- test in a sandbox or low-risk workspace
+- use dummy data
+- run adversarial prompts and poisoned-document tests
+- confirm logs show what happened
+- rehearse emergency disable
+- confirm rollback for any write action
+- set transaction, sending or publishing limits
+
 <div class="risk-card risk-red" markdown="1">
 
 ## Red Uses

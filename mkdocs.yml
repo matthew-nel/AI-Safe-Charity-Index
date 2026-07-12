@@ -39,16 +39,34 @@ nav:
       - before-you-paste/index.md
   - AI and Data Protection:
       - Overview: ai-and-data-protection/index.md
+      - Lawful basis and transparency: ai-and-data-protection/lawful-basis-and-transparency.md
+      - Special category, children and vulnerability: ai-and-data-protection/special-category-children-and-vulnerability.md
       - DPIA triage for AI: ai-and-data-protection/dpia-triage.md
       - Automated decisions and profiling: ai-and-data-protection/automated-decisions.md
+      - Individual rights: ai-and-data-protection/individual-rights.md
+      - Suppliers, transfers and contracts: ai-and-data-protection/suppliers-transfers-and-contracts.md
+      - Retention, security and breaches: ai-and-data-protection/retention-security-and-breaches.md
   - Everyday Charity Work:
       - Overview: everyday-charity-work/index.md
+      - Communications and public content: everyday-charity-work/communications-and-public-content.md
       - AI in fundraising: everyday-charity-work/ai-in-fundraising.md
       - Meetings and transcription: everyday-charity-work/meetings-and-transcription.md
+      - Beneficiary services and chatbots: everyday-charity-work/beneficiary-services-and-chatbots.md
+      - Safeguarding: everyday-charity-work/safeguarding.md
+      - Recruitment and HR: everyday-charity-work/recruitment-and-hr.md
+      - Volunteers: everyday-charity-work/volunteers.md
+      - Finance, grants and fraud: everyday-charity-work/finance-grants-and-fraud.md
+      - Research and evaluation: everyday-charity-work/research-and-evaluation.md
+      - Translation, accessibility and inclusion: everyday-charity-work/translation-accessibility-and-inclusion.md
+      - Website, code and analytics: everyday-charity-work/website-code-and-analytics.md
   - Governance:
       - Overview: governance/index.md
+      - AI policy and risk ownership: governance/ai-policy-and-risk-ownership.md
+      - Trustee briefing and assurance: governance/trustee-briefing-and-assurance.md
       - Tool approval: governance/tool-approval.md
+      - Supplier contracts and procurement: governance/supplier-contracts-and-procurement.md
       - Agents and connectors: governance/agents-and-connectors.md
+      - Monitoring, audit and change control: governance/monitoring-audit-and-change-control.md
       - AI incidents: governance/incidents.md
   - Tools:
       - Overview: tools/index.md

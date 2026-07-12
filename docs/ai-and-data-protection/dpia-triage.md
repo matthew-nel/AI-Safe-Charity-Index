@@ -72,8 +72,44 @@ For AI, include:
 - incident route
 - review date
 
+## Record the Screening Decision
+
+Even where the answer is "no DPIA needed", record:
+
+- date of screening
+- owner and reviewer
+- purpose
+- data categories
+- people affected
+- whether children, adults at risk or vulnerable people may be affected
+- whether the use involves monitoring, profiling, matching, invisible processing, denial of service, connectors or automated actions
+- outcome and reasons
+- next review trigger
+
+## Consult People Where Appropriate
+
+For higher-risk AI use, consider whether affected people, staff, volunteers, service leads, safeguarding leads or lived-experience groups should be consulted before launch. Consultation should be proportionate and safe.
+
+## Residual Risk and ICO Consultation
+
+The DPIA should record whether risks remain after controls are chosen. If high residual risk cannot be reduced, seek specialist advice. The ICO expects consultation before starting processing where high risk remains.
+
+## Review Triggers
+
+Re-screen when there is a material change, including:
+
+- new model
+- new data source
+- new connector or agent action
+- new purpose
+- new audience or affected group
+- new output used in decisions
+- provider term change
+- incident or near miss
+- material accuracy, bias or security concern
+
 ## Sources
 
 - [ICO: When do we need to do a DPIA?](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/data-protection-impact-assessments-dpias/when-do-we-need-to-do-a-dpia/)
+- [ICO: How do we do a DPIA?](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/data-protection-impact-assessments-dpias/how-do-we-do-a-dpia/)
 - [ICO: Guidance on AI and data protection](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/)
-

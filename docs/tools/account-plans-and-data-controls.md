@@ -63,6 +63,34 @@ Check:
 - citations mean a source has been checked
 - connectors are safe because the user already had access
 
+## "Not Used for Training" Is Not Enough
+
+A no-training commitment is useful, but it answers only one question. You still need to check:
+
+- retention
+- human access by the provider
+- subprocessors and model providers
+- security controls
+- transfers
+- deletion and backups
+- connectors
+- output risk
+- lawful purpose
+- charity-controlled settings
+
+## Minimum Account Evidence
+
+Keep a dated record of:
+
+- official provider documentation checked
+- account plan and workspace name
+- contract or DPA location
+- admin settings screenshots or exports
+- allowed data categories
+- disabled features or connectors
+- user groups allowed
+- review date and change triggers
+
 ## Practical Approval Rule
 
 Write approvals like this:
@@ -72,4 +100,3 @@ Write approvals like this:
 Avoid approvals like this:
 
 > ChatGPT is approved.
-

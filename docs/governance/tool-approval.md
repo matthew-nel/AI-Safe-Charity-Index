@@ -31,6 +31,7 @@ Ask:
 
 - What problem are we solving?
 - Which tool, plan and account type will be used?
+- Which model, feature, connector or agent is being approved?
 - What data will be entered or connected?
 - Will the provider use inputs or outputs for model training?
 - What retention and deletion controls exist?
@@ -38,9 +39,12 @@ Ask:
 - Where may data be processed or transferred?
 - What admin, SSO, MFA, audit and access controls exist?
 - Can the tool connect to email, files, CRM, HR or case systems?
+- Can the tool send, publish, delete, spend, update records or trigger workflows?
 - Who owns the use case?
 - Who reviews outputs?
+- What training is required before use?
 - What happens if the tool gives harmful or wrong output?
+- What evidence proves the settings match the approval?
 - When will the approval be reviewed?
 
 ## Minimum AI-Use Register Fields
@@ -57,7 +61,11 @@ Ask:
 | Human review | Names the reviewer and authority |
 | Risk rating | Green, Amber or Red |
 | DPIA status | Shows data-protection governance |
+| Safeguarding/equality/security screens | Captures specialist review needs |
+| Training required | Prevents access before users understand limits |
+| Incident contact | Gives users a route when something goes wrong |
 | Approval and review date | Supports lifecycle control |
+| Change triggers | Defines when approval expires |
 
 ## Approval Outcomes
 
@@ -65,4 +73,27 @@ Ask:
 - **Approved with limits:** use may proceed only with specific controls.
 - **Needs specialist review:** data protection, safeguarding, legal, HR or procurement review is needed.
 - **Not approved:** do not use for charity work.
+- **Retired:** use has ended; users, connectors and stored data have been reviewed.
 
+## Example Approval Wording
+
+Good approval:
+
+> Tool: ChatGPT Business workspace. Feature: drafting only, no connectors. Purpose: first-draft public campaign copy from public information. Data: no personal or confidential data. Users: communications team after training. Reviewer: Communications Manager. Review date: October 2026.
+
+Bad approval:
+
+> ChatGPT is approved.
+
+## Common Change Triggers
+
+Reapprove when there is:
+
+- a new model
+- a new connector
+- a new data category
+- a new purpose
+- a new affected group
+- a new external action
+- a new supplier term, retention setting or subprocessor
+- an incident, complaint or near miss

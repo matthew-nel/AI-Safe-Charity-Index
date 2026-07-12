@@ -33,14 +33,20 @@ Small and medium charities should start with:
 - an approved-tools list
 - a basic AI-use register
 - a tool approval process
+- a supplier and connector check
 - human review expectations
 - an incident route
 - trustee visibility over high-risk use
+- a review process for changes, incidents and near misses
 
 ## Pages in This Section
 
+- [AI policy and risk ownership](ai-policy-and-risk-ownership.md)
+- [Trustee briefing and assurance](trustee-briefing-and-assurance.md)
 - [Tool approval](tool-approval.md)
+- [Supplier contracts and procurement](supplier-contracts-and-procurement.md)
 - [Agents and connectors](agents-and-connectors.md)
+- [Monitoring, audit and change control](monitoring-audit-and-change-control.md)
 - [AI incidents](incidents.md)
 
 ## Trustee Questions
@@ -53,6 +59,8 @@ Trustees can ask:
 - Who approves tools and use cases?
 - What happens if AI output causes harm?
 - How are important decisions checked by humans?
+- What incidents, near misses, complaints and overrides occurred?
+- Which supplier, model, connector or terms changed since the last review?
 
 ## Sources
 
