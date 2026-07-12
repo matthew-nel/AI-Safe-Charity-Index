@@ -60,7 +60,7 @@ Please avoid sharing personal data, safeguarding information, confidential chari
 
 ## Request Collaborator Access
 
-People who want to contribute regularly can ask Matthew to add them as GitHub collaborators by invite.
+People who want to contribute regularly can ask Matthew to add them as GitHub collaborators by invite. Use LinkedIn for the first request so Matthew can screen collaborator requests before sharing any direct email route.
 
 To request collaborator access, contact Matthew and include:
 
@@ -77,7 +77,7 @@ Suggested subject line:
 
 [Request via LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
 
-If Matthew has shared an email address with you, you can use the same details by email. A public email address will be added here once confirmed for publication.
+Do not include personal data, safeguarding case details, confidential charity information or private research responses in the initial message. If a conversation needs to move to email, Matthew can share an email address privately after the first contact.
 
 ## How GitHub Invites Work
 

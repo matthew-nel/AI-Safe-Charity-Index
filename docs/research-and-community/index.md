@@ -56,7 +56,7 @@ Do not submit personal data, safeguarding case details, confidential charity mat
 
 ## Becoming a Collaborator
 
-If you want to contribute regularly, request a GitHub collaborator invite from Matthew.
+If you want to contribute regularly, request a GitHub collaborator invite from Matthew on LinkedIn.
 
 Include:
 
@@ -68,5 +68,9 @@ Include:
 Suggested subject line:
 
 > AI Safe Charity Index collaborator invite request
+
+[Request via LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
+
+Do not include personal data, safeguarding case details, confidential charity information or private research responses in the first message. If a conversation needs to move to email, Matthew can share an email address privately.
 
 Once approved, Matthew can invite you through GitHub. You will need to accept the GitHub invitation before you can collaborate directly on the project.
