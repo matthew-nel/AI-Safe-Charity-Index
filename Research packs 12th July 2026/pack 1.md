@@ -437,7 +437,7 @@ Explain:
 
 ## Key findings
 
-Present the principal evidence-backed findings.
+Present the principal researched findings.
 
 ## Detailed research
 

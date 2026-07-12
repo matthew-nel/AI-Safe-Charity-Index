@@ -862,7 +862,7 @@ This section maps every file in the export. “Ready” means editorial drafting
 
 **Suggested hero copy:**
 
-> Practical, evidence-backed AI safety guidance for UK charities. Start with the five-step check before you paste, upload, connect, record or let an AI system act.
+> Practical, researched AI safety guidance for UK charities. Start with the five-step check before you paste, upload, connect, record or let an AI system act.
 
 **Status:** Ready.
 

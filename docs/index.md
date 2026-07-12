@@ -24,7 +24,7 @@ claim_ids: []
 
 # AI Safe Charity Index
 
-<p class="asc-lede">Evidence-backed guidance for deciding what can be pasted, uploaded, connected, recorded or delegated to AI at work.</p>
+<p class="asc-lede">Researched guidance for deciding what can be pasted, uploaded, connected, recorded or delegated to AI at work.</p>
 
 <div class="asc-button-row" markdown="1">
 
