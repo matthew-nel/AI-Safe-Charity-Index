@@ -18,40 +18,125 @@ source_ids: []
 claim_ids: []
 ---
 
+<section class="asc-intro" markdown="1">
+
+<p class="asc-kicker">Practical AI safety for UK charities</p>
+
 # AI Safe Charity Index
 
-Practical, evidence-backed AI safety guidance for UK charities.
+<p class="asc-lede">Evidence-backed guidance for deciding what can be pasted, uploaded, connected, recorded or delegated to AI at work.</p>
 
-Start here before you paste, upload, connect, record or let an AI system act.
+<div class="asc-button-row" markdown="1">
 
-## Start With the Core Check
+[Start With Before You Paste](before-you-paste/index.md){ .md-button .md-button--primary }
+[Browse Task Guides](everyday-charity-work/index.md){ .md-button }
+[See Tool Checks](tools/index.md){ .md-button }
 
-Use the [Before You Paste](before-you-paste/index.md) framework before putting information into an AI tool.
+</div>
 
-It helps you decide whether a task is:
+</section>
 
-- **Green:** go ahead with normal checks
-- **Amber:** pause and check
-- **Red:** stop
+<div class="asc-signal-grid" markdown="1">
+
+<div class="asc-signal-card asc-signal-green" markdown="1">
+
+### Green
+
+Go ahead with normal checks when information is public, fictional, synthetic or genuinely non-personal.
+
+</div>
+
+<div class="asc-signal-card asc-signal-amber" markdown="1">
+
+### Amber
+
+Pause for the documented route when personal data, internal material, connectors or decisions about people are involved.
+
+</div>
+
+<div class="asc-signal-card asc-signal-red" markdown="1">
+
+### Red
+
+Stop and use a specialist route for safeguarding, sensitive records, credentials, significant automated decisions or autonomous actions.
+
+</div>
+
+</div>
 
 ## Choose Your Route
 
-- **I am about to use AI:** start with [Before You Paste](before-you-paste/index.md), then choose the relevant [task guide](everyday-charity-work/index.md).
-- **I approve tools or manage risk:** use [Tool approval](governance/tool-approval.md), [Account plans and data controls](tools/account-plans-and-data-controls.md), and [DPIA triage](ai-and-data-protection/dpia-triage.md).
-- **I am a trustee or leader:** start with [Governance](governance/index.md), [Trustee assurance](governance/trustee-briefing-and-assurance.md), and [AI incidents](governance/incidents.md).
+<div class="asc-route-grid" markdown="1">
 
-!!! warning "Already pasted, uploaded or connected something risky?"
-    Stop using the tool for that task and follow the [AI incident route](governance/incidents.md). Do not paste more information into the same system to investigate.
+<a class="asc-route-card" href="before-you-paste/" markdown="1">
+<span class="asc-card-label">Staff and volunteers</span>
 
-## What This Site Will Cover
+### I am about to use AI
 
-- safer use of AI in everyday charity work
-- GDPR and data-protection basics
-- safeguarding considerations
-- trustee and governance guidance
-- common AI tool guidance
-- templates, checklists and review processes
-- updates, evidence and release notes
+Start with the core paste/upload check, then choose the relevant task guide.
+</a>
+
+<a class="asc-route-card" href="governance/tool-approval/" markdown="1">
+<span class="asc-card-label">Managers and tool owners</span>
+
+### I approve tools or manage risk
+
+Use tool approval, account controls and DPIA triage before rollout.
+</a>
+
+<a class="asc-route-card" href="governance/trustee-briefing-and-assurance/" markdown="1">
+<span class="asc-card-label">Trustees and leaders</span>
+
+### I need assurance
+
+Review governance, trustee questions and the incident route.
+</a>
+
+</div>
+
+<div class="asc-callout" markdown="1">
+
+**Already pasted, uploaded or connected something risky?** Stop using the tool for that task and follow the [AI incident route](governance/incidents.md). Do not paste more information into the same system to investigate.
+
+</div>
+
+## What This Site Covers
+
+<div class="asc-grid" markdown="1">
+
+<div class="asc-card" markdown="1">
+
+### Everyday Work
+
+Task guides for fundraising, meetings, communications, services, safeguarding, HR, volunteers and research.
+
+</div>
+
+<div class="asc-card" markdown="1">
+
+### Data Protection
+
+Plain-English checks for lawful basis, DPIAs, rights, suppliers, retention, security and breaches.
+
+</div>
+
+<div class="asc-card" markdown="1">
+
+### Governance
+
+Trustee assurance, tool approval, supplier review, agents, connectors, monitoring and incidents.
+
+</div>
+
+<div class="asc-card" markdown="1">
+
+### Tools
+
+Plan-aware guidance for common AI products, with Green, Amber and Red examples.
+
+</div>
+
+</div>
 
 ## Scope
 

@@ -18,9 +18,15 @@ source_ids: ["ICO-AI-001", "CC-AI-001", "FR-AI-001", "NCSC-AI-001"]
 claim_ids: ["CLM-001", "CLM-007", "CLM-015", "CLM-016"]
 ---
 
+<section class="asc-intro" markdown="1">
+
+<p class="asc-kicker">The core safety check</p>
+
 # Before You Paste
 
-Before you paste information into an AI tool, stop and check what the information contains, where it may go, what the tool may do with it, and what could happen if the output is wrong.
+<p class="asc-lede">Before you paste information into an AI tool, stop and check what the information contains, where it may go, what the tool may do with it, and what could happen if the output is wrong.</p>
+
+</section>
 
 This framework does not replace professional advice, a Data Protection Impact Assessment, safeguarding procedures, supplier due diligence or formal organisational approval.
 
@@ -28,14 +34,54 @@ This framework does not replace professional advice, a Data Protection Impact As
 
 Ask these questions in order:
 
-1. **Is the tool approved for work?** If not, stop and use an approved route or ask for approval.
-2. **What information are you entering?** Check whether it is public, internal, confidential, personal, special category, safeguarding-related or security-sensitive.
-3. **Is the information genuinely necessary?** Remove, generalise or replace details wherever possible.
-4. **What will the AI do?** Risk rises when the AI analyses people, recommends decisions, contacts people, searches connected systems or takes actions.
-5. **Who checks the result?** A named person must be able to understand, challenge and change the output.
+<div class="asc-step-grid" markdown="1">
+
+<div class="asc-step-card" markdown="1">
+<span class="asc-step-number">1</span>
+
+### Approved Tool
+
+Is the tool approved for work? If not, stop and use an approved route or ask for approval.
+</div>
+
+<div class="asc-step-card" markdown="1">
+<span class="asc-step-number">2</span>
+
+### Information Type
+
+Check whether it is public, internal, confidential, personal, special category, safeguarding-related or security-sensitive.
+</div>
+
+<div class="asc-step-card" markdown="1">
+<span class="asc-step-number">3</span>
+
+### Necessity
+
+Remove, generalise or replace details wherever possible.
+</div>
+
+<div class="asc-step-card" markdown="1">
+<span class="asc-step-number">4</span>
+
+### AI Action
+
+Risk rises when AI analyses people, recommends decisions, contacts people, searches connected systems or takes actions.
+</div>
+
+<div class="asc-step-card" markdown="1">
+<span class="asc-step-number">5</span>
+
+### Human Check
+
+A named person must be able to understand, challenge and change the output.
+</div>
+
+</div>
 
 !!! warning "A paid personal account is not a work-approved account"
     Do not assume that paying for an individual AI subscription gives the charity a contract, Data Processing Agreement, admin controls, audit logs, retention controls or suitable data protections.
+
+<div class="risk-card-grid" markdown="1">
 
 <div class="risk-card risk-green" markdown="1">
 
@@ -92,6 +138,8 @@ Stop when the information includes:
 - autonomous agents that can send messages, publish, delete records, spend money or change systems without approval gates
 
 Use your charity's established safeguarding, data-protection, legal, HR or senior-management process instead.
+
+</div>
 
 </div>
 

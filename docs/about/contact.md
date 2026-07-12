@@ -20,11 +20,28 @@ claim_ids: []
 
 # Contact
 
+<div class="asc-profile-card" markdown="1">
+
+![Matthew James Nel](../assets/images/matthew-james-nel.png){ .asc-profile-image }
+
+<div markdown="1">
+
+## Matthew James Nel
+
 AI Safe Charity Index was originally created by **Matthew James Nel**.
 
 The project is being developed as an open, evidence-led resource for UK charities, and constructive edits, corrections and research contributions are welcome.
 
-[Connect with Matthew on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
+<div class="asc-profile-actions" markdown="1">
+
+[Connect on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
+[Contribute Research](../research-and-community/index.md){ .md-button }
+
+</div>
+
+</div>
+
+</div>
 
 ## Collaborate on the Knowledge Base
 

@@ -18,25 +18,111 @@ source_ids: []
 claim_ids: []
 ---
 
+<section class="asc-intro" markdown="1">
+
+<p class="asc-kicker">Find guidance by task</p>
+
 # Everyday Charity Work
 
-Use this section when you know the task you want to do.
+<p class="asc-lede">Use this section when you know the task you want to do. Risk follows the task, data and impact, not the department.</p>
 
-Risk follows the **task, data and impact**, not the department. A communications task can become high risk if it uses a real beneficiary story. A finance task can be low risk if it uses dummy data and a human checks the result.
+</section>
+
+A communications task can become high risk if it uses a real beneficiary story. A finance task can be low risk if it uses dummy data and a human checks the result.
 
 ## Task Guides
 
-- [Communications and public content](communications-and-public-content.md)
-- [AI in fundraising](ai-in-fundraising.md)
-- [Meetings and transcription](meetings-and-transcription.md)
-- [Beneficiary services and chatbots](beneficiary-services-and-chatbots.md)
-- [Safeguarding](safeguarding.md)
-- [Recruitment and HR](recruitment-and-hr.md)
-- [Volunteers](volunteers.md)
-- [Finance, grants and fraud](finance-grants-and-fraud.md)
-- [Research and evaluation](research-and-evaluation.md)
-- [Translation, accessibility and inclusion](translation-accessibility-and-inclusion.md)
-- [Website, code and analytics](website-code-and-analytics.md)
+<div class="asc-task-grid" markdown="1">
+
+<a class="asc-task-card" href="communications-and-public-content/" markdown="1">
+<span class="asc-task-meta">Public content</span>
+
+### Communications
+
+Drafting, editing, synthetic media and public claims.
+</a>
+
+<a class="asc-task-card" href="ai-in-fundraising/" markdown="1">
+<span class="asc-task-meta">Donors and campaigns</span>
+
+### Fundraising
+
+Appeals, donor data, segmentation and fundraising ethics.
+</a>
+
+<a class="asc-task-card" href="meetings-and-transcription/" markdown="1">
+<span class="asc-task-meta">Recording and notes</span>
+
+### Meetings
+
+Transcription, summaries, notice, access and retention.
+</a>
+
+<a class="asc-task-card" href="beneficiary-services-and-chatbots/" markdown="1">
+<span class="asc-task-meta">Service delivery</span>
+
+### Beneficiary Services
+
+Chatbots, advice boundaries and human escalation.
+</a>
+
+<a class="asc-task-card" href="safeguarding/" markdown="1">
+<span class="asc-task-meta">High-risk route</span>
+
+### Safeguarding
+
+Children, adults at risk, case notes and escalation.
+</a>
+
+<a class="asc-task-card" href="recruitment-and-hr/" markdown="1">
+<span class="asc-task-meta">People decisions</span>
+
+### Recruitment and HR
+
+Shortlisting, monitoring, employee data and fairness.
+</a>
+
+<a class="asc-task-card" href="volunteers/" markdown="1">
+<span class="asc-task-meta">Volunteer management</span>
+
+### Volunteers
+
+Onboarding, rota support, safeguarding and personal accounts.
+</a>
+
+<a class="asc-task-card" href="finance-grants-and-fraud/" markdown="1">
+<span class="asc-task-meta">Money and controls</span>
+
+### Finance, Grants and Fraud
+
+Payments, bank details, grant ranking and fraud flags.
+</a>
+
+<a class="asc-task-card" href="research-and-evaluation/" markdown="1">
+<span class="asc-task-meta">Evidence and learning</span>
+
+### Research and Evaluation
+
+Survey themes, interviews, anonymisation and policy evidence.
+</a>
+
+<a class="asc-task-card" href="translation-accessibility-and-inclusion/" markdown="1">
+<span class="asc-task-meta">Inclusive access</span>
+
+### Translation and Inclusion
+
+Accessible drafts, translation checks and sensitive contexts.
+</a>
+
+<a class="asc-task-card" href="website-code-and-analytics/" markdown="1">
+<span class="asc-task-meta">Digital delivery</span>
+
+### Website, Code and Analytics
+
+Code help, analytics, cookies, security and public tools.
+</a>
+
+</div>
 
 ## Before You Start
 
