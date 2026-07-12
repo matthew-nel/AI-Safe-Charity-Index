@@ -26,3 +26,16 @@ It translates complex guidance into practical steps that charity staff, voluntee
 
 The project is guided by evidence, plain English, charity relevance, accessibility and human accountability.
 
+## Creator
+
+AI Safe Charity Index was originally created by **Matthew James Nel**.
+
+[Connect with Matthew on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
+
+## Open Collaboration
+
+The project invites constructive edits from collaborators who can improve the guidance, sources, accessibility, plain-English content, templates or charity relevance.
+
+Researchers, practitioners, trustees, charity staff, data-protection professionals and safeguarding specialists are also invited to contribute evidence and research on AI policy in charities.
+
+See the [Contact](contact.md) page for collaboration and research topics.
