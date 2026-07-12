@@ -32,7 +32,6 @@ The project is being developed as an open, evidence-led resource for UK charitie
 
 [Connect on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
 [Contribute Research](../research-and-community/index.md){ .md-button }
-[View GitHub Project](https://github.com/matthew-nel/AI-Safe-Charity-Index){ .md-button }
 
 </div>
 
