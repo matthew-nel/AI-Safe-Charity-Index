@@ -411,17 +411,44 @@
   border-top: 0.45rem solid var(--risk-accent);
   border-radius: 0.5rem;
   margin: 0;
-  padding: 1rem 1.1rem;
+  padding: clamp(0.9rem, 1.6vw, 1.15rem) clamp(0.95rem, 1.8vw, 1.25rem);
   background: var(--risk-bg);
   box-shadow: 0 0.25rem 0.9rem rgba(18, 52, 59, 0.07);
 }
 
+.risk-card + .risk-card {
+  margin-top: 1rem;
+}
+
 .risk-card h2,
 .risk-card h3 {
-  display: flex;
-  gap: 0.55rem;
   align-items: center;
+  display: flex;
+  font-size: clamp(1.15rem, 1.02rem + 0.55vw, 1.45rem);
+  gap: 0.6rem;
+  line-height: 1.2;
+  margin-bottom: 0.65rem;
   margin-top: 0;
+}
+
+.risk-card p {
+  line-height: 1.5;
+  margin: 0.45rem 0 0.55rem;
+}
+
+.risk-card ul,
+.risk-card ol {
+  margin: 0.5rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.risk-card li {
+  line-height: 1.45;
+  margin: 0;
+}
+
+.risk-card li + li {
+  margin-top: 0.3rem;
 }
 
 .risk-card h2::before,
@@ -479,6 +506,7 @@
 
 .risk-card-grid .risk-card {
   height: 100%;
+  margin-top: 0;
 }
 
 [data-md-color-scheme="slate"] .risk-green {
