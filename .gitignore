@@ -1,0 +1,13 @@
+# Local project/specification corpus used as build context.
+[0-9][0-9]_*.md
+BUILD_SESSION_RECORD_*.md
+GAP_ANALYSIS_*.md
+1770070046252.png
+
+# Generated MkDocs output.
+site/
+
+# Local Python/tooling noise.
+.venv/
+__pycache__/
+.DS_Store

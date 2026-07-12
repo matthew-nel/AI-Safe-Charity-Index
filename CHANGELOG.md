@@ -1,0 +1,38 @@
+# Changelog
+
+This file records significant changes to AI Safe Charity Index.
+
+## [Unreleased]
+
+### Added
+
+- Initial public repository standards are being prepared.
+- Core knowledge base architecture is being documented.
+- Public guidance pages are under development.
+
+### Known Limitations
+
+- Contact and research form links remain placeholders.
+- Licensing is not yet confirmed.
+- Tool guidance requires current provider verification before publication.
+
+## [0.1.0] - 2026-07-12
+
+### Summary
+
+Created the foundation operating system for the AI Safe Charity Index.
+
+### Added
+
+- MkDocs Material site foundation.
+- Task-based navigation skeleton.
+- Before You Paste starter guidance.
+- Repository governance files.
+- GitHub Pages deployment workflow.
+
+### Known Limitations
+
+- Most guidance pages are section stubs awaiting conversion from the specification corpus.
+- Source and claim registers are not yet published.
+- Frontmatter validation is not yet automated.
+

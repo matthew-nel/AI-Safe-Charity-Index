@@ -1,0 +1,61 @@
+site_name: AI Safe Charity Index
+site_description: Practical, evidence-led guidance to help UK charities use AI safely, confidently and responsibly.
+site_url: https://matthew-nel.github.io/AI-Safe-Charity-Index/
+repo_url: https://github.com/matthew-nel/AI-Safe-Charity-Index
+repo_name: matthew-nel/AI-Safe-Charity-Index
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Start Here:
+      - start-here/index.md
+  - Before You Paste:
+      - before-you-paste/index.md
+  - AI and Data Protection:
+      - ai-and-data-protection/index.md
+  - Everyday Charity Work:
+      - everyday-charity-work/index.md
+  - Governance:
+      - governance/index.md
+  - Tools:
+      - tools/index.md
+  - Templates:
+      - templates.md
+  - Learning Paths:
+      - learning-paths/index.md
+  - Research and Community:
+      - research-and-community/index.md
+  - Updates:
+      - updates/index.md
+      - Changelog: updates/changelog.md
+      - Roadmap: updates/roadmap.md
+  - About:
+      - about/index.md
+      - FAQ: about/faq.md
+      - Glossary: about/glossary.md
+      - Contact: about/contact.md
+      - Accessibility: accessibility/index.md
+      - Privacy: privacy/index.md
