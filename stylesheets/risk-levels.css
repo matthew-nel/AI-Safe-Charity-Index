@@ -56,15 +56,33 @@
 }
 
 .asc-button-row {
-  align-items: center;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem;
   margin-top: 1rem;
 }
 
-.asc-button-row .md-button {
+.asc-button-row > p,
+.asc-profile-actions > p,
+.md-typeset p:has(> .md-button + .md-button) {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
   margin: 0;
+}
+
+.md-typeset .md-button {
+  line-height: 1.25;
+  margin: 0;
+  text-align: center;
+  white-space: normal;
+}
+
+.asc-button-row .md-button {
+  flex: 0 1 auto;
+  min-width: min(100%, 12rem);
+}
+
+.asc-button-row .md-button--primary {
+  min-width: min(100%, 14rem);
 }
 
 .asc-grid,
@@ -294,6 +312,10 @@
   margin-top: 0.9rem;
 }
 
+.asc-check-questions > .md-button {
+  margin-top: 0.9rem;
+}
+
 .asc-check-result {
   border-left: 1px solid var(--asc-border);
   display: flex;
@@ -376,10 +398,12 @@
 }
 
 .asc-profile-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
   margin-top: 0.8rem;
+}
+
+.asc-profile-actions .md-button {
+  flex: 0 1 auto;
+  min-width: min(100%, 10rem);
 }
 
 .risk-card {
@@ -512,6 +536,19 @@
 }
 
 @media screen and (max-width: 44rem) {
+  .asc-button-row > p,
+  .asc-profile-actions > p,
+  .md-typeset p:has(> .md-button + .md-button) {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .asc-button-row .md-button,
+  .asc-profile-actions .md-button,
+  .md-typeset p:has(> .md-button + .md-button) .md-button {
+    width: 100%;
+  }
+
   .asc-check-layout {
     grid-template-columns: 1fr;
   }
