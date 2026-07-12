@@ -31,6 +31,7 @@ claim_ids: []
 [Answer the Quick Check](#quick-check){ .md-button .md-button--primary }
 [I Already Made a Mistake](governance/incidents.md){ .md-button }
 [Browse Task Guides](everyday-charity-work/index.md){ .md-button }
+[Contact / Collaborate](about/contact.md){ .md-button }
 
 </div>
 
@@ -136,11 +137,31 @@ claim_ids: []
 <span class="asc-card-text">Twenty findings from the July research packs on adoption, governance, trust, incidents and tool controls.</span>
 </a>
 
+<a class="asc-route-card" href="about/contact/">
+<span class="asc-card-label">Help improve it</span>
+<span class="asc-card-title">Contact or Collaborate</span>
+<span class="asc-card-text">Suggest a correction, share a reliable source, request collaborator access or discuss research on AI policy in charities.</span>
+</a>
+
 </div>
 
 <div class="asc-callout" markdown="1">
 
 **Already pasted, uploaded or connected something risky?** Stop using the tool for that task and follow the [AI incident route](governance/incidents.md). Do not paste more information into the same system to investigate.
+
+</div>
+
+## Help Improve the Knowledge Base
+
+This is an open-source, research-led resource. It gets better when charity staff, trustees, researchers and practitioners help test the guidance against real charity workflows.
+
+Useful contributions include corrections, reliable sources, practical examples, accessibility feedback, plain-English review, template improvements and research on AI policy in charities.
+
+<div class="asc-button-row" markdown="1">
+
+[Contact Matthew](about/contact.md){ .md-button .md-button--primary }
+[Request Collaborator Access](about/contact.md#request-collaborator-access){ .md-button }
+[Research and Community](research-and-community/index.md){ .md-button }
 
 </div>
 
