@@ -84,4 +84,4 @@ If you think a page is wrong or incomplete:
 4. Suggest a correction.
 5. Declare any relevant conflict of interest.
 
-For regular contribution, request collaborator access through [LinkedIn](https://www.linkedin.com/in/matthewjamesnel/).
+For regular contribution, request collaborator access through the [contact page](../about/contact.md#request-collaborator-access).

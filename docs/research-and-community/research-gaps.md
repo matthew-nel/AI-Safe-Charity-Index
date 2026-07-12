@@ -57,4 +57,4 @@ The evidence base for charity AI use is growing quickly, but important questions
 
 ## Invitation to Researchers
 
-This project welcomes collaboration on charity AI policy, safeguarding, public trust, donor ethics, data protection, procurement and practical governance. If you want to contribute research, start with the [evidence system](evidence-system.md) and request collaborator access through [LinkedIn](https://www.linkedin.com/in/matthewjamesnel/).
+This project welcomes collaboration on charity AI policy, safeguarding, public trust, donor ethics, data protection, procurement and practical governance. If you want to contribute research, start with the [evidence system](evidence-system.md) and request collaborator access through the [contact page](../about/contact.md#request-collaborator-access).

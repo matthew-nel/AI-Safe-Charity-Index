@@ -159,7 +159,7 @@ Useful contributions include corrections, reliable sources, practical examples, 
 
 <div class="asc-button-row" markdown="1">
 
-[Contact Matthew](about/contact.md){ .md-button .md-button--primary }
+[Contact the Project](about/contact.md){ .md-button .md-button--primary }
 [Request Collaborator Access](about/contact.md#request-collaborator-access){ .md-button }
 [Research and Community](research-and-community/index.md){ .md-button }
 
