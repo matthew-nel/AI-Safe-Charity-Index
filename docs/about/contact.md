@@ -36,6 +36,7 @@ The project is being developed as an open, evidence-led resource for UK charitie
 
 [Connect on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
 [Contribute Research](../research-and-community/index.md){ .md-button }
+[View GitHub Project](https://github.com/matthew-nel/AI-Safe-Charity-Index){ .md-button }
 
 </div>
 
@@ -56,6 +57,39 @@ You can help improve the project by:
 - improving templates, checklists and governance tools
 
 Please avoid sharing personal data, safeguarding information, confidential charity material, passwords, API keys or private case details.
+
+## Request Collaborator Access
+
+People who want to contribute regularly can ask Matthew to add them as GitHub collaborators by invite.
+
+To request collaborator access, contact Matthew and include:
+
+- your GitHub username
+- your name and organisation, if relevant
+- the type of contribution you want to make
+- the pages or topics you are interested in
+- any relevant review expertise, such as charity governance, AI policy, safeguarding, GDPR, fundraising, cyber security, accessibility, UX or plain English
+- whether you want to contribute research, edit content, review sources, improve templates or help with site design
+
+Suggested subject line:
+
+> AI Safe Charity Index collaborator invite request
+
+[Request via LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
+
+If Matthew has shared an email address with you, you can use the same details by email. A public email address will be added here once confirmed for publication.
+
+## How GitHub Invites Work
+
+Matthew, as project owner, can invite collaborators from the GitHub repository settings. GitHub sends the invitation to the person's GitHub account or email address, and the person must accept it before they can collaborate directly.
+
+New collaborators should normally:
+
+- discuss the intended contribution first
+- work in branches or pull requests where practical
+- cite reliable sources for substantive claims
+- avoid publishing personal, safeguarding or confidential charity information
+- keep high-risk legal, data-protection, safeguarding and cyber-security content marked for review
 
 ## Research Collaboration
 

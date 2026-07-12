@@ -25,6 +25,7 @@ This section invites research, feedback and practical collaboration on safer AI 
 AI Safe Charity Index was originally created by **Matthew James Nel** as an open, evidence-led resource for UK charities.
 
 [Connect with Matthew on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
+[Request Collaborator Access](../about/contact.md#request-collaborator-access){ .md-button }
 
 ## Research Interests
 
@@ -52,3 +53,20 @@ You can help by:
 - contributing to research packs
 
 Do not submit personal data, safeguarding case details, confidential charity material or private research responses through public project spaces.
+
+## Becoming a Collaborator
+
+If you want to contribute regularly, request a GitHub collaborator invite from Matthew.
+
+Include:
+
+- your GitHub username
+- the contribution area you want to help with
+- relevant charity, research, policy, safeguarding, GDPR, cyber-security, accessibility or UX experience
+- whether you want to contribute sources, review content, improve templates, test the site or help with design
+
+Suggested subject line:
+
+> AI Safe Charity Index collaborator invite request
+
+Once approved, Matthew can invite you through GitHub. You will need to accept the GitHub invitation before you can collaborate directly on the project.
