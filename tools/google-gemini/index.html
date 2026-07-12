@@ -50,6 +50,8 @@
       
     
     
+      <link rel="stylesheet" href="../../stylesheets/risk-levels.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -2221,12 +2223,15 @@
 
 <h1 id="google-gemini">Google Gemini<a class="headerlink" href="#google-gemini" title="Permanent link">&para;</a></h1>
 <p>Google Gemini may be used as a personal app or through Google Workspace. These are not the same governance situation.</p>
+<div class="risk-card risk-green">
 <h2 id="green-uses">Green Uses<a class="headerlink" href="#green-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>drafting from public information</li>
 <li>summarising non-sensitive Workspace material in an approved tenant</li>
 <li>producing internal templates with no personal data</li>
 </ul>
+</div>
+<div class="risk-card risk-amber">
 <h2 id="amber-uses">Amber Uses<a class="headerlink" href="#amber-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Gmail, Drive or Meet integration</li>
@@ -2234,6 +2239,8 @@
 <li>confidential internal documents</li>
 <li>Workspace use where admin controls and retention need review</li>
 </ul>
+</div>
+<div class="risk-card risk-red">
 <h2 id="red-uses">Red Uses<a class="headerlink" href="#red-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>work data through a personal Gemini account</li>
@@ -2241,6 +2248,7 @@
 <li>beneficiary decisions based on Gemini output</li>
 <li>case or safeguarding records in an unapproved account</li>
 </ul>
+</div>
 <h2 id="sources">Sources<a class="headerlink" href="#sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="https://support.google.com/gemini/answer/13594961">Google: Gemini Apps Privacy Hub</a></li>

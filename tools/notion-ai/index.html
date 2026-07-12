@@ -50,6 +50,8 @@
       
     
     
+      <link rel="stylesheet" href="../../stylesheets/risk-levels.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -2221,12 +2223,15 @@
 
 <h1 id="notion-ai">Notion AI<a class="headerlink" href="#notion-ai" title="Permanent link">&para;</a></h1>
 <p>Notion AI can draft, search a workspace, summarise material, support meeting notes and work with connected apps.</p>
+<div class="risk-card risk-green">
 <h2 id="green-uses">Green Uses<a class="headerlink" href="#green-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>drafting from public or non-sensitive workspace pages</li>
 <li>project summaries without personal information</li>
 <li>knowledge-base search where permissions are already sound</li>
 </ul>
+</div>
+<div class="risk-card risk-amber">
 <h2 id="amber-uses">Amber Uses<a class="headerlink" href="#amber-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>meeting transcription</li>
@@ -2234,6 +2239,8 @@
 <li>agents that edit pages or databases</li>
 <li>confidential strategy or governance material</li>
 </ul>
+</div>
+<div class="risk-card risk-red">
 <h2 id="red-uses">Red Uses<a class="headerlink" href="#red-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>using AI to expose pages that were accidentally over-shared</li>
@@ -2241,6 +2248,7 @@
 <li>silently recording participants</li>
 <li>autonomous edits to critical registers without review</li>
 </ul>
+</div>
 <h2 id="sources">Sources<a class="headerlink" href="#sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="https://www.notion.com/help/notion-ai-security-practices">Notion: AI security and privacy practices</a></li>

@@ -50,6 +50,8 @@
       
     
     
+      <link rel="stylesheet" href="../../stylesheets/risk-levels.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -2221,12 +2223,15 @@
 
 <h1 id="microsoft-copilot">Microsoft Copilot<a class="headerlink" href="#microsoft-copilot" title="Permanent link">&para;</a></h1>
 <p>Microsoft Copilot can work across Microsoft 365, including Word, Excel, PowerPoint, Outlook, Teams, SharePoint and agents.</p>
+<div class="risk-card risk-green">
 <h2 id="green-uses">Green Uses<a class="headerlink" href="#green-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>drafting ordinary documents</li>
 <li>summarising approved internal documents the user needs for their role</li>
 <li>meeting/action summaries in an approved tenant and process</li>
 </ul>
+</div>
+<div class="risk-card risk-amber">
 <h2 id="amber-uses">Amber Uses<a class="headerlink" href="#amber-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Teams meeting summaries</li>
@@ -2234,12 +2239,15 @@
 <li>analysis of HR, donor or beneficiary information</li>
 <li>web grounding for confidential topics</li>
 </ul>
+</div>
+<div class="risk-card risk-red">
 <h2 id="red-uses">Red Uses<a class="headerlink" href="#red-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>using Copilot instead of fixing overshared SharePoint or OneDrive permissions</li>
 <li>autonomous sending, deletion or external publication without approval</li>
 <li>significant employment or service decisions without safeguards</li>
 </ul>
+</div>
 <h2 id="sources">Sources<a class="headerlink" href="#sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-privacy">Microsoft: Data, privacy and security for Microsoft 365 Copilot</a></li>

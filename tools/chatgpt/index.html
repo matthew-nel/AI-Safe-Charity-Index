@@ -50,6 +50,8 @@
       
     
     
+      <link rel="stylesheet" href="../../stylesheets/risk-levels.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -2221,6 +2223,7 @@
 
 <h1 id="chatgpt">ChatGPT<a class="headerlink" href="#chatgpt" title="Permanent link">&para;</a></h1>
 <p>ChatGPT can help with writing, editing, summarising, planning, research support, coding and template drafting.</p>
+<div class="risk-card risk-green">
 <h2 id="green-uses">Green Uses<a class="headerlink" href="#green-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>public-copy drafting</li>
@@ -2228,6 +2231,8 @@
 <li>code or spreadsheet help using dummy data</li>
 <li>generic templates and checklists</li>
 </ul>
+</div>
+<div class="risk-card risk-amber">
 <h2 id="amber-uses">Amber Uses<a class="headerlink" href="#amber-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>internal documents in an approved Business or Enterprise workspace</li>
@@ -2235,6 +2240,8 @@
 <li>minimised or pseudonymised data with documented approval</li>
 <li>custom GPTs or actions with controlled knowledge and permissions</li>
 </ul>
+</div>
+<div class="risk-card risk-red">
 <h2 id="red-uses">Red Uses<a class="headerlink" href="#red-uses" title="Permanent link">&para;</a></h2>
 <ul>
 <li>safeguarding or case records in personal accounts</li>
@@ -2243,6 +2250,7 @@
 <li>significant decisions without safeguards</li>
 <li>assuming Temporary Chat makes an otherwise unsafe disclosure acceptable</li>
 </ul>
+</div>
 <h2 id="sources">Sources<a class="headerlink" href="#sources" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="https://openai.com/enterprise-privacy/">OpenAI: Enterprise privacy</a></li>

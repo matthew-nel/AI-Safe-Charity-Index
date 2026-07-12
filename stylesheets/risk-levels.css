@@ -1,0 +1,85 @@
+.risk-card {
+  border: 1px solid var(--risk-border);
+  border-left: 0.5rem solid var(--risk-accent);
+  border-radius: 0.5rem;
+  margin: 1.25rem 0;
+  padding: 1rem 1.1rem;
+  background: var(--risk-bg);
+  box-shadow: 0 0.15rem 0.45rem rgba(0, 0, 0, 0.06);
+}
+
+.risk-card h2,
+.risk-card h3 {
+  display: flex;
+  gap: 0.55rem;
+  align-items: center;
+  margin-top: 0;
+}
+
+.risk-card h2::before,
+.risk-card h3::before {
+  display: inline-grid;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 999px;
+  color: #fff;
+  background: var(--risk-accent);
+  font-weight: 800;
+  font-size: 1rem;
+  line-height: 1;
+  flex: 0 0 auto;
+}
+
+.risk-green {
+  --risk-accent: #16834a;
+  --risk-border: #98d9b8;
+  --risk-bg: #f0fbf5;
+}
+
+.risk-green h2::before,
+.risk-green h3::before {
+  content: "✓";
+}
+
+.risk-amber {
+  --risk-accent: #b66a00;
+  --risk-border: #f1c27d;
+  --risk-bg: #fff8ea;
+}
+
+.risk-amber h2::before,
+.risk-amber h3::before {
+  content: "!";
+}
+
+.risk-red {
+  --risk-accent: #c62828;
+  --risk-border: #ef9a9a;
+  --risk-bg: #fff1f1;
+}
+
+.risk-red h2::before,
+.risk-red h3::before {
+  content: "×";
+}
+
+.risk-card ul:last-child,
+.risk-card p:last-child {
+  margin-bottom: 0;
+}
+
+[data-md-color-scheme="slate"] .risk-green {
+  --risk-bg: rgba(22, 131, 74, 0.16);
+  --risk-border: rgba(152, 217, 184, 0.42);
+}
+
+[data-md-color-scheme="slate"] .risk-amber {
+  --risk-bg: rgba(182, 106, 0, 0.18);
+  --risk-border: rgba(241, 194, 125, 0.42);
+}
+
+[data-md-color-scheme="slate"] .risk-red {
+  --risk-bg: rgba(198, 40, 40, 0.18);
+  --risk-border: rgba(239, 154, 154, 0.42);
+}
