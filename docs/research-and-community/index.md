@@ -24,7 +24,6 @@ This section invites research, feedback and practical collaboration on safer AI 
 
 AI Safe Charity Index was originally created by **Matthew Nel** as an open, research-led resource for UK charities.
 
-[Connect with Matthew on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
 [Request Collaborator Access](../about/contact.md#request-collaborator-access){ .md-button }
 
 ## July 2026 Research Additions
