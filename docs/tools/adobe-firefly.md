@@ -23,12 +23,18 @@ feedback_enabled: true
 
 Adobe Firefly can generate and edit images, vectors, video, audio and design assets.
 
+<div class="risk-card risk-green" markdown="1">
+
 ## Green Uses
 
 - generic illustrations and textures
 - background extension or removal on assets the charity owns
 - concept development
 - non-personal campaign assets reviewed by a designer
+
+</div>
+
+<div class="risk-card risk-amber" markdown="1">
 
 ## Amber Uses
 
@@ -37,6 +43,10 @@ Adobe Firefly can generate and edit images, vectors, video, audio and design ass
 - third-party or partner models
 - campaign assets where rights, publicity or trademark issues matter
 
+</div>
+
+<div class="risk-card risk-red" markdown="1">
+
 ## Red Uses
 
 - false documentary imagery presented as a real event
@@ -44,9 +54,10 @@ Adobe Firefly can generate and edit images, vectors, video, audio and design ass
 - uploading material without rights
 - deepfake audio or video of a real person
 
+</div>
+
 ## Sources
 
 - [Adobe Firefly FAQ](https://helpx.adobe.com/firefly/web/get-started/learn-the-basics/adobe-firefly-faq.html)
 - [Adobe: Partner models in Firefly Enterprise](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/creative-production/partner-models-in-firefly-creative-production-for-enterprise.html)
 - [Adobe for Nonprofits](https://www.adobe.com/nonprofits.html)
-

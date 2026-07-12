@@ -23,6 +23,8 @@ feedback_enabled: true
 
 ChatGPT can help with writing, editing, summarising, planning, research support, coding and template drafting.
 
+<div class="risk-card risk-green" markdown="1">
+
 ## Green Uses
 
 - public-copy drafting
@@ -30,12 +32,20 @@ ChatGPT can help with writing, editing, summarising, planning, research support,
 - code or spreadsheet help using dummy data
 - generic templates and checklists
 
+</div>
+
+<div class="risk-card risk-amber" markdown="1">
+
 ## Amber Uses
 
 - internal documents in an approved Business or Enterprise workspace
 - connected apps after permission review
 - minimised or pseudonymised data with documented approval
 - custom GPTs or actions with controlled knowledge and permissions
+
+</div>
+
+<div class="risk-card risk-red" markdown="1">
 
 ## Red Uses
 
@@ -45,10 +55,11 @@ ChatGPT can help with writing, editing, summarising, planning, research support,
 - significant decisions without safeguards
 - assuming Temporary Chat makes an otherwise unsafe disclosure acceptable
 
+</div>
+
 ## Sources
 
 - [OpenAI: Enterprise privacy](https://openai.com/enterprise-privacy/)
 - [OpenAI: Data controls FAQ](https://help.openai.com/en/articles/7730893-data-controls-faq)
 - [OpenAI: Temporary Chat FAQ](https://help.openai.com/en/articles/8914046-temporary-chat-faq)
 - [OpenAI for Nonprofits](https://help.openai.com/en/articles/9359041-openai-for-nonprofits)
-

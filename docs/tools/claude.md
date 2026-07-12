@@ -23,12 +23,18 @@ feedback_enabled: true
 
 Claude can support writing, document analysis, research, coding and sustained project work.
 
+<div class="risk-card risk-green" markdown="1">
+
 ## Green Uses
 
 - public writing and editing
 - analysing public reports
 - coding against non-sensitive repositories
 - policy outlines without confidential inputs
+
+</div>
+
+<div class="risk-card risk-amber" markdown="1">
 
 ## Amber Uses
 
@@ -37,6 +43,10 @@ Claude can support writing, document analysis, research, coding and sustained pr
 - connectors after repository and permission review
 - enterprise use where retention is configured
 
+</div>
+
+<div class="risk-card risk-red" markdown="1">
+
 ## Red Uses
 
 - consumer accounts for beneficiary or HR personal data
@@ -44,10 +54,11 @@ Claude can support writing, document analysis, research, coding and sustained pr
 - broad agent permissions to local files or systems
 - assuming deletion is immediate in every back-end system
 
+</div>
+
 ## Sources
 
 - [Anthropic: Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training)
 - [Anthropic: How long do you store my organisation's data?](https://privacy.claude.com/en/articles/7996866-how-long-do-you-store-my-organization-s-data)
 - [Claude Team and Enterprise plans](https://support.claude.com/en/collections/9387370-team-and-enterprise-plans)
 - [Claude for Nonprofits](https://www.anthropic.com/news/claude-for-nonprofits)
-

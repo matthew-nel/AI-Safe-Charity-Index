@@ -26,6 +26,8 @@ AI can help fundraisers draft, plan, test and summarise. It can also create risk
 
 The Fundraising Regulator says charitable fundraising institutions remain responsible and accountable for AI use in fundraising, including AI-generated outputs they use.
 
+<div class="risk-card risk-green" markdown="1">
+
 ## Green Uses
 
 Usually suitable with normal review:
@@ -35,6 +37,10 @@ Usually suitable with normal review:
 - improving the clarity of public copy
 - turning published impact information into a first-draft checklist
 - creating internal planning structures without donor data
+
+</div>
+
+<div class="risk-card risk-amber" markdown="1">
 
 ## Amber Uses
 
@@ -48,6 +54,10 @@ Pause and check before using AI for:
 - personalised donor communications
 - fundraising content about vulnerable people
 
+</div>
+
+<div class="risk-card risk-red" markdown="1">
+
 ## Red Uses
 
 Do not use a general-purpose or unapproved AI tool for:
@@ -58,6 +68,8 @@ Do not use a general-purpose or unapproved AI tool for:
 - synthetic beneficiary stories presented as real
 - decisions about who should receive support, grants or contact without safeguards
 - fundraising approaches that could exploit vulnerability
+
+</div>
 
 ## Fundraising AI Checklist
 
@@ -78,4 +90,3 @@ Before using AI:
 - [Fundraising Regulator: Guidance for using artificial intelligence in fundraising](https://www.fundraisingregulator.org.uk/about-fundraising/resources/guidance-using-artificial-intelligence-fundraising)
 - [Fundraising Regulator: Data privacy and fundraising](https://www.fundraisingregulator.org.uk/about-fundraising/resources/data-privacy-and-fundraising)
 - [Fundraising Regulator: Charitable purposes soft opt-in and fundraising marketing](https://www.fundraisingregulator.org.uk/about-fundraising/resources/charitable-purposes-soft-opt-and-fundraising-marketing)
-

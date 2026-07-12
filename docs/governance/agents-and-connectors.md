@@ -49,6 +49,8 @@ Risk increases when AI can:
 - create a kill switch or rollback process
 - review incidents and near misses
 
+<div class="risk-card risk-red" markdown="1">
+
 ## Red Uses
 
 Do not allow an agent to:
@@ -60,9 +62,10 @@ Do not allow an agent to:
 - handle money or procurement decisions without controls
 - act on hidden instructions from untrusted content
 
+</div>
+
 ## Sources
 
 - [NCSC: Thinking carefully before adopting agentic AI](https://www.ncsc.gov.uk/blogs/thinking-carefully-before-adopting-agentic-ai)
 - [NCSC: AI and cyber security](https://www.ncsc.gov.uk/guidance/ai-and-cyber-security-what-you-need-to-know)
 - [GOV.UK: Code of Practice for the Cyber Security of AI](https://www.gov.uk/government/publications/ai-cyber-security-code-of-practice/code-of-practice-for-the-cyber-security-of-ai)
-

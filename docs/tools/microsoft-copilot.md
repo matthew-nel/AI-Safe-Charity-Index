@@ -23,11 +23,17 @@ feedback_enabled: true
 
 Microsoft Copilot can work across Microsoft 365, including Word, Excel, PowerPoint, Outlook, Teams, SharePoint and agents.
 
+<div class="risk-card risk-green" markdown="1">
+
 ## Green Uses
 
 - drafting ordinary documents
 - summarising approved internal documents the user needs for their role
 - meeting/action summaries in an approved tenant and process
+
+</div>
+
+<div class="risk-card risk-amber" markdown="1">
 
 ## Amber Uses
 
@@ -36,15 +42,20 @@ Microsoft Copilot can work across Microsoft 365, including Word, Excel, PowerPoi
 - analysis of HR, donor or beneficiary information
 - web grounding for confidential topics
 
+</div>
+
+<div class="risk-card risk-red" markdown="1">
+
 ## Red Uses
 
 - using Copilot instead of fixing overshared SharePoint or OneDrive permissions
 - autonomous sending, deletion or external publication without approval
 - significant employment or service decisions without safeguards
 
+</div>
+
 ## Sources
 
 - [Microsoft: Data, privacy and security for Microsoft 365 Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-privacy)
 - [Microsoft: Web search in Microsoft 365 Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/manage-public-web-access)
 - [Microsoft AI for nonprofits](https://www.microsoft.com/en-us/nonprofits/empower-your-nonprofit-with-ai)
-

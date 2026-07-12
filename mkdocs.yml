@@ -15,6 +15,9 @@ theme:
     - search.suggest
     - toc.follow
 
+extra_css:
+  - stylesheets/risk-levels.css
+
 plugins:
   - search
 

@@ -37,6 +37,8 @@ Ask these questions in order:
 !!! warning "A paid personal account is not a work-approved account"
     Do not assume that paying for an individual AI subscription gives the charity a contract, Data Processing Agreement, admin controls, audit logs, retention controls or suitable data protections.
 
+<div class="risk-card risk-green" markdown="1">
+
 ## Green: Go Ahead With Normal Checks
 
 Green uses are usually low risk. The information is public, fictional, synthetic or genuinely non-personal. The tool is approved for the task, no significant decision about a person is being made, and a person will review the output.
@@ -50,6 +52,10 @@ Examples:
 - generating fictional examples
 
 Green does not mean the output is automatically accurate.
+
+</div>
+
+<div class="risk-card risk-amber" markdown="1">
 
 ## Amber: Pause and Check
 
@@ -68,6 +74,10 @@ Pause when the task involves:
 
 Check your charity's policy, speak to the right internal lead, remove unnecessary information, and use an approved route where one exists.
 
+</div>
+
+<div class="risk-card risk-red" markdown="1">
+
 ## Red: Stop
 
 Stop when the information includes:
@@ -82,6 +92,8 @@ Stop when the information includes:
 - autonomous agents that can send messages, publish, delete records, spend money or change systems without approval gates
 
 Use your charity's established safeguarding, data-protection, legal, HR or senior-management process instead.
+
+</div>
 
 ## What Meaningful Human Review Means
 

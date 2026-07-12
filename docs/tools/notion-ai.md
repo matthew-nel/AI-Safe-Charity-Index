@@ -23,11 +23,17 @@ feedback_enabled: true
 
 Notion AI can draft, search a workspace, summarise material, support meeting notes and work with connected apps.
 
+<div class="risk-card risk-green" markdown="1">
+
 ## Green Uses
 
 - drafting from public or non-sensitive workspace pages
 - project summaries without personal information
 - knowledge-base search where permissions are already sound
+
+</div>
+
+<div class="risk-card risk-amber" markdown="1">
 
 ## Amber Uses
 
@@ -36,6 +42,10 @@ Notion AI can draft, search a workspace, summarise material, support meeting not
 - agents that edit pages or databases
 - confidential strategy or governance material
 
+</div>
+
+<div class="risk-card risk-red" markdown="1">
+
 ## Red Uses
 
 - using AI to expose pages that were accidentally over-shared
@@ -43,9 +53,10 @@ Notion AI can draft, search a workspace, summarise material, support meeting not
 - silently recording participants
 - autonomous edits to critical registers without review
 
+</div>
+
 ## Sources
 
 - [Notion: AI security and privacy practices](https://www.notion.com/help/notion-ai-security-practices)
 - [Notion: AI Meeting Notes](https://www.notion.com/help/ai-meeting-notes)
 - [Notion for Nonprofits](https://www.notion.com/nonprofits)
-

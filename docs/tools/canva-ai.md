@@ -23,12 +23,18 @@ feedback_enabled: true
 
 Canva AI and Magic features can support design, social content, presentations, images and video.
 
+<div class="risk-card risk-green" markdown="1">
+
 ## Green Uses
 
 - public campaign concepting
 - generic backgrounds and illustrative assets
 - accessible social templates with human editing
 - resizing and adapting approved public content
+
+</div>
+
+<div class="risk-card risk-amber" markdown="1">
 
 ## Amber Uses
 
@@ -37,6 +43,10 @@ Canva AI and Magic features can support design, social content, presentations, i
 - depictions of sensitive experiences
 - AI voice, video or translation intended for public use
 
+</div>
+
+<div class="risk-card risk-red" markdown="1">
+
 ## Red Uses
 
 - fictional beneficiary stories presented as real
@@ -44,9 +54,10 @@ Canva AI and Magic features can support design, social content, presentations, i
 - impersonating a real person
 - medical, crisis or safeguarding messaging without specialist review
 
+</div>
+
 ## Sources
 
 - [Canva AI Product Terms](https://www.canva.com/policies/ai-product-terms/)
 - [Canva: Manage privacy settings](https://www.canva.com/help/manage-privacy-settings/)
 - [Canva for Nonprofits](https://www.canva.com/nonprofits/)
-
