@@ -1,6 +1,6 @@
 # AI Safe Charity Index
 
-Practical, evidence-led guidance to help UK charities use AI safely, confidently and responsibly.
+An open-source, research-led knowledge base for safe, responsible and practical AI use in charities.
 
 > Help charities save time with AI without risking people's data, trust or safety.
 

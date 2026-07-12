@@ -21,7 +21,7 @@ feedback_enabled: true
 
 # Contributor and Evidence System
 
-AI Safe Charity Index should stay useful because it is practical, but trustworthy because it is evidence-led. This page sets the contribution rules for research updates, source suggestions and page reviews.
+AI Safe Charity Index should stay useful because it is practical, but trustworthy because it is research-led. This page sets the contribution rules for research updates, source suggestions and page reviews.
 
 ## Evidence Levels
 

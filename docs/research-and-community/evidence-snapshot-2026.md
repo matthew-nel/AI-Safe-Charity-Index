@@ -1,6 +1,6 @@
 ---
 title: "2026 Evidence Snapshot"
-description: "Twenty evidence-led findings about AI use, risk and governance in UK charities."
+description: "Twenty research findings about AI use, risk and governance in UK charities."
 section: "research-and-community"
 page_type: "research-synthesis"
 audience: ["staff", "trustees", "researchers", "contributors"]

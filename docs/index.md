@@ -1,6 +1,6 @@
 ---
 title: "AI Safe Charity Index"
-description: "Practical, evidence-led guidance to help UK charities use AI safely, confidently and responsibly."
+description: "An open-source, research-led knowledge base for safe, responsible and practical AI use in charities."
 section: "start-here"
 page_type: "landing-page"
 audience: ["staff", "managers", "trustees", "volunteers"]
@@ -24,7 +24,7 @@ claim_ids: []
 
 # AI Safe Charity Index
 
-<p class="asc-lede">Researched guidance for deciding what can be pasted, uploaded, connected, recorded or delegated to AI at work.</p>
+<p class="asc-lede">An open-source, research-led knowledge base for the safe, responsible and practical use of AI in charities, from everyday prompts to tool approvals, risk controls and trustee oversight.</p>
 
 <div class="asc-button-row" markdown="1">
 

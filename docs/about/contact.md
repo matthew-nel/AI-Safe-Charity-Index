@@ -26,7 +26,7 @@ claim_ids: []
 
 AI Safe Charity Index was originally created by **Matthew Nel**.
 
-The project is being developed as an open, evidence-led resource for UK charities, and constructive edits, corrections and research contributions are welcome.
+The project is being developed as an open, research-led resource for UK charities, and constructive edits, corrections and research contributions are welcome.
 
 <div class="asc-profile-actions" markdown="1">
 
