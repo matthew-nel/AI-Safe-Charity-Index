@@ -35,13 +35,29 @@ nav:
   - Before You Paste:
       - before-you-paste/index.md
   - AI and Data Protection:
-      - ai-and-data-protection/index.md
+      - Overview: ai-and-data-protection/index.md
+      - DPIA triage for AI: ai-and-data-protection/dpia-triage.md
+      - Automated decisions and profiling: ai-and-data-protection/automated-decisions.md
   - Everyday Charity Work:
-      - everyday-charity-work/index.md
+      - Overview: everyday-charity-work/index.md
+      - AI in fundraising: everyday-charity-work/ai-in-fundraising.md
+      - Meetings and transcription: everyday-charity-work/meetings-and-transcription.md
   - Governance:
-      - governance/index.md
+      - Overview: governance/index.md
+      - Tool approval: governance/tool-approval.md
+      - Agents and connectors: governance/agents-and-connectors.md
+      - AI incidents: governance/incidents.md
   - Tools:
-      - tools/index.md
+      - Overview: tools/index.md
+      - Account plans and data controls: tools/account-plans-and-data-controls.md
+      - ChatGPT: tools/chatgpt.md
+      - Claude: tools/claude.md
+      - Google Gemini: tools/google-gemini.md
+      - Microsoft Copilot: tools/microsoft-copilot.md
+      - Notion AI: tools/notion-ai.md
+      - Perplexity: tools/perplexity.md
+      - Canva AI: tools/canva-ai.md
+      - Adobe Firefly: tools/adobe-firefly.md
   - Templates:
       - templates.md
   - Learning Paths:
@@ -50,6 +66,7 @@ nav:
       - research-and-community/index.md
   - Updates:
       - updates/index.md
+      - July 2026 research update: updates/2026-07.md
       - Changelog: updates/changelog.md
       - Roadmap: updates/roadmap.md
   - About:

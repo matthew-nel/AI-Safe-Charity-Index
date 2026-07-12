@@ -10,6 +10,7 @@ This file records significant changes to AI Safe Charity Index.
 - Core knowledge base architecture is being documented.
 - Public guidance pages are under development.
 - Root-level Markdown specification corpus added as the project blueprint for future implementation work.
+- July 2026 research pack converted into draft public pages, tool guides and navigation updates.
 
 ### Known Limitations
 
