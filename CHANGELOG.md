@@ -13,6 +13,7 @@ This file records significant changes to AI Safe Charity Index.
 - July 2026 research pack converted into draft public pages, tool guides and navigation updates.
 - Latest July 2026 research packs added under `monthly-update-packs/2026-07/` and used to populate everyday-work, data-protection and governance pages.
 - Expanded Green/Amber/Red task guidance, incident triage, supplier checks, trustee assurance and tool account-plan controls.
+- Functional UX pass added a top-level Quick Check, simplified navigation, clearer common next steps and more reliable card rendering.
 
 ### Known Limitations
 

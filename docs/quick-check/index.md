@@ -1,8 +1,8 @@
 ---
-title: "AI Safe Charity Index"
-description: "Practical, evidence-led guidance to help UK charities use AI safely, confidently and responsibly."
-section: "start-here"
-page_type: "landing-page"
+title: "Quick Check"
+description: "A practical five-question AI risk check for charity staff, volunteers, managers and trustees."
+section: "quick-check"
+page_type: "interactive-check"
 audience: ["staff", "managers", "trustees", "volunteers"]
 charity_size: ["small", "medium", "large"]
 risk_level: "general"
@@ -13,32 +13,22 @@ next_review: "2026-10-01"
 evidence_level: "foundation"
 owner: "Matthew James Nel"
 maintainer: "Matthew James Nel"
-tags: ["ai-safety", "charities", "governance"]
-source_ids: []
-claim_ids: []
+tags: ["quick-check", "traffic-light", "ai-risk"]
+source_ids: ["ICO-AI-001", "CC-AI-001", "NCSC-AI-001"]
+claim_ids: ["CLM-001", "CLM-007", "CLM-015"]
 ---
 
 <section class="asc-intro" markdown="1">
 
-<p class="asc-kicker">Practical AI safety for UK charities</p>
+<p class="asc-kicker">Five questions before using AI</p>
 
-# AI Safe Charity Index
+# Quick Check
 
-<p class="asc-lede">Evidence-backed guidance for deciding what can be pasted, uploaded, connected, recorded or delegated to AI at work.</p>
-
-<div class="asc-button-row" markdown="1">
-
-[Answer the Quick Check](#quick-check){ .md-button .md-button--primary }
-[I Already Made a Mistake](governance/incidents.md){ .md-button }
-[Browse Task Guides](everyday-charity-work/index.md){ .md-button }
-
-</div>
+<p class="asc-lede">Answer these questions to get a practical Green, Amber or Red route. This is a triage aid, not a substitute for your charity's policy, DPIA, safeguarding or legal process.</p>
 
 </section>
 
-## Quick Check
-
-<form class="asc-quick-check" data-quick-check id="quick-check">
+<form class="asc-quick-check" data-quick-check data-link-prefix="../">
 
 <div class="asc-check-layout">
 
@@ -108,42 +98,6 @@ claim_ids: []
 
 </form>
 
-## Common Next Steps
+## If You Are Already Worried
 
-<div class="asc-route-grid" markdown="1">
-
-<a class="asc-route-card" href="everyday-charity-work/">
-<span class="asc-card-label">I know the task</span>
-<span class="asc-card-title">Browse Task Guides</span>
-<span class="asc-card-text">Find guidance for fundraising, meetings, services, HR, safeguarding, finance, research and communications.</span>
-</a>
-
-<a class="asc-route-card" href="governance/tool-approval/">
-<span class="asc-card-label">I approve tools</span>
-<span class="asc-card-title">Approve a Use Case</span>
-<span class="asc-card-text">Use tool approval, account controls and DPIA triage before rollout.</span>
-</a>
-
-<a class="asc-route-card" href="governance/incidents/">
-<span class="asc-card-label">Something went wrong</span>
-<span class="asc-card-title">Follow the Incident Route</span>
-<span class="asc-card-text">Stop the use, preserve facts and choose the data, safeguarding, cyber or content route.</span>
-</a>
-
-</div>
-
-<div class="asc-callout" markdown="1">
-
-**Already pasted, uploaded or connected something risky?** Stop using the tool for that task and follow the [AI incident route](governance/incidents.md). Do not paste more information into the same system to investigate.
-
-</div>
-
-## Scope
-
-The site is written primarily for charities in England and Wales. Much of the data-protection and cyber-security guidance is UK-wide, but charity law and safeguarding routes may differ by nation and organisation.
-
-This guidance supports judgement. It does not replace legal advice, data-protection advice, safeguarding procedures, employment advice, procurement review or trustee decision-making.
-
-## Current Status
-
-This site is in active development. Pages marked as draft or interim should be reviewed before being treated as final guidance.
+If you have already pasted, uploaded, connected, recorded or published something risky, stop using the tool for that task and follow the [AI incident route](../governance/incidents.md).

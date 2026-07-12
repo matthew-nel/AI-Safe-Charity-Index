@@ -1,6 +1,6 @@
 ---
-title: "Start Here"
-description: "A plain-English starting point for UK charities using AI tools."
+title: "How to Use This Site"
+description: "A plain-English orientation page for UK charities using AI Safe Charity Index."
 section: "start-here"
 page_type: "landing-page"
 audience: ["staff", "managers", "trustees", "volunteers"]
@@ -22,44 +22,44 @@ claim_ids: []
 
 <p class="asc-kicker">First route for staff, volunteers and trustees</p>
 
-# Start Here
+# How to Use This Site
 
-<p class="asc-lede">AI can help charities draft, summarise, plan and learn. It can also create privacy, safeguarding, accuracy and accountability risks when used without clear checks.</p>
+<p class="asc-lede">Use the Quick Check when you need an immediate route. Use the task guides when you already know what work you are doing.</p>
 
 <div class="asc-button-row" markdown="1">
 
-[Run the Core Check](../before-you-paste/index.md){ .md-button .md-button--primary }
+[Run the Quick Check](../quick-check/index.md){ .md-button .md-button--primary }
 [Find a Task Guide](../everyday-charity-work/index.md){ .md-button }
 
 </div>
 
 </section>
 
-## Three Rules
+## Three Simple Routes
 
 <div class="asc-rule-grid" markdown="1">
 
 <div class="asc-rule-card" markdown="1">
 
-### Keep Sensitive Data Out
+### Need an Immediate Answer?
 
-Do not paste personal, confidential or safeguarding information into an unapproved AI tool.
-
-</div>
-
-<div class="asc-rule-card" markdown="1">
-
-### Use Less Information
-
-Use the least information needed for the task. Remove, generalise or replace details where possible.
+Use the [Quick Check](../quick-check/index.md) for a fast Green, Amber or Red route.
 
 </div>
 
 <div class="asc-rule-card" markdown="1">
 
-### Keep a Human Responsible
+### About to Paste or Upload?
 
-A competent person remains responsible for the output and the final decision.
+Use [Before You Paste](../before-you-paste/index.md) before entering information into an AI tool.
+
+</div>
+
+<div class="asc-rule-card" markdown="1">
+
+### Know the Work Task?
+
+Use [Task Guides](../everyday-charity-work/index.md) for fundraising, meetings, services, HR, safeguarding, finance and communications.
 
 </div>
 
@@ -72,9 +72,9 @@ A competent person remains responsible for the output and the final decision.
 <div class="asc-step-card" markdown="1">
 <span class="asc-step-number">1</span>
 
-### Read Before You Paste
+### Run the Quick Check
 
-Start with the [core check](../before-you-paste/index.md).
+Start with the [five-question route](../quick-check/index.md).
 </div>
 
 <div class="asc-step-card" markdown="1">
@@ -123,52 +123,40 @@ Use the [AI incident route](../governance/incidents.md) if something goes wrong.
 
 <div class="asc-route-grid" markdown="1">
 
-<a class="asc-route-card" href="../before-you-paste/" markdown="1">
+<a class="asc-route-card" href="../before-you-paste/">
 <span class="asc-card-label">Staff and volunteers</span>
-
-### Use AI Safely Today
-
-Before You Paste, the relevant task page, and AI incidents.
+<span class="asc-card-title">Use AI Safely Today</span>
+<span class="asc-card-text">Before You Paste, the relevant task page, and AI incidents.</span>
 </a>
 
-<a class="asc-route-card" href="../governance/tool-approval/" markdown="1">
+<a class="asc-route-card" href="../governance/tool-approval/">
 <span class="asc-card-label">Managers and tool owners</span>
-
-### Approve a Use Case
-
-Tool approval, DPIA triage, monitoring and human review.
+<span class="asc-card-title">Approve a Use Case</span>
+<span class="asc-card-text">Tool approval, DPIA triage, monitoring and human review.</span>
 </a>
 
-<a class="asc-route-card" href="../governance/trustee-briefing-and-assurance/" markdown="1">
+<a class="asc-route-card" href="../governance/trustee-briefing-and-assurance/">
 <span class="asc-card-label">Trustees and leaders</span>
-
-### Ask Better Questions
-
-Governance, trustee assurance, safeguarding, automated decisions and incidents.
+<span class="asc-card-title">Ask Better Questions</span>
+<span class="asc-card-text">Governance, trustee assurance, safeguarding, automated decisions and incidents.</span>
 </a>
 
-<a class="asc-route-card" href="../ai-and-data-protection/" markdown="1">
+<a class="asc-route-card" href="../ai-and-data-protection/">
 <span class="asc-card-label">Data-protection leads</span>
-
-### Check the Data Lifecycle
-
-AI and Data Protection, DPIA triage, individual rights and supplier checks.
+<span class="asc-card-title">Check the Data Lifecycle</span>
+<span class="asc-card-text">AI and Data Protection, DPIA triage, individual rights and supplier checks.</span>
 </a>
 
-<a class="asc-route-card" href="../everyday-charity-work/safeguarding/" markdown="1">
+<a class="asc-route-card" href="../everyday-charity-work/safeguarding/">
 <span class="asc-card-label">Safeguarding leads</span>
-
-### Keep Escalation Human
-
-Beneficiary services, meetings, incidents and human escalation.
+<span class="asc-card-title">Keep Escalation Human</span>
+<span class="asc-card-text">Beneficiary services, meetings, incidents and human escalation.</span>
 </a>
 
-<a class="asc-route-card" href="../governance/agents-and-connectors/" markdown="1">
+<a class="asc-route-card" href="../governance/agents-and-connectors/">
 <span class="asc-card-label">Digital or IT leads</span>
-
-### Control Access and Actions
-
-Account plans, agents and connectors, cyber controls and tool decommissioning.
+<span class="asc-card-title">Control Access and Actions</span>
+<span class="asc-card-text">Account plans, agents and connectors, cyber controls and tool decommissioning.</span>
 </a>
 
 </div>

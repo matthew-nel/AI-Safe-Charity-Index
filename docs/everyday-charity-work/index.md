@@ -34,92 +34,70 @@ A communications task can become high risk if it uses a real beneficiary story. 
 
 <div class="asc-task-grid" markdown="1">
 
-<a class="asc-task-card" href="communications-and-public-content/" markdown="1">
+<a class="asc-task-card" href="communications-and-public-content/">
 <span class="asc-task-meta">Public content</span>
-
-### Communications
-
-Drafting, editing, synthetic media and public claims.
+<span class="asc-card-title">Communications</span>
+<span class="asc-card-text">Drafting, editing, synthetic media and public claims.</span>
 </a>
 
-<a class="asc-task-card" href="ai-in-fundraising/" markdown="1">
+<a class="asc-task-card" href="ai-in-fundraising/">
 <span class="asc-task-meta">Donors and campaigns</span>
-
-### Fundraising
-
-Appeals, donor data, segmentation and fundraising ethics.
+<span class="asc-card-title">Fundraising</span>
+<span class="asc-card-text">Appeals, donor data, segmentation and fundraising ethics.</span>
 </a>
 
-<a class="asc-task-card" href="meetings-and-transcription/" markdown="1">
+<a class="asc-task-card" href="meetings-and-transcription/">
 <span class="asc-task-meta">Recording and notes</span>
-
-### Meetings
-
-Transcription, summaries, notice, access and retention.
+<span class="asc-card-title">Meetings</span>
+<span class="asc-card-text">Transcription, summaries, notice, access and retention.</span>
 </a>
 
-<a class="asc-task-card" href="beneficiary-services-and-chatbots/" markdown="1">
+<a class="asc-task-card" href="beneficiary-services-and-chatbots/">
 <span class="asc-task-meta">Service delivery</span>
-
-### Beneficiary Services
-
-Chatbots, advice boundaries and human escalation.
+<span class="asc-card-title">Beneficiary Services</span>
+<span class="asc-card-text">Chatbots, advice boundaries and human escalation.</span>
 </a>
 
-<a class="asc-task-card" href="safeguarding/" markdown="1">
+<a class="asc-task-card" href="safeguarding/">
 <span class="asc-task-meta">High-risk route</span>
-
-### Safeguarding
-
-Children, adults at risk, case notes and escalation.
+<span class="asc-card-title">Safeguarding</span>
+<span class="asc-card-text">Children, adults at risk, case notes and escalation.</span>
 </a>
 
-<a class="asc-task-card" href="recruitment-and-hr/" markdown="1">
+<a class="asc-task-card" href="recruitment-and-hr/">
 <span class="asc-task-meta">People decisions</span>
-
-### Recruitment and HR
-
-Shortlisting, monitoring, employee data and fairness.
+<span class="asc-card-title">Recruitment and HR</span>
+<span class="asc-card-text">Shortlisting, monitoring, employee data and fairness.</span>
 </a>
 
-<a class="asc-task-card" href="volunteers/" markdown="1">
+<a class="asc-task-card" href="volunteers/">
 <span class="asc-task-meta">Volunteer management</span>
-
-### Volunteers
-
-Onboarding, rota support, safeguarding and personal accounts.
+<span class="asc-card-title">Volunteers</span>
+<span class="asc-card-text">Onboarding, rota support, safeguarding and personal accounts.</span>
 </a>
 
-<a class="asc-task-card" href="finance-grants-and-fraud/" markdown="1">
+<a class="asc-task-card" href="finance-grants-and-fraud/">
 <span class="asc-task-meta">Money and controls</span>
-
-### Finance, Grants and Fraud
-
-Payments, bank details, grant ranking and fraud flags.
+<span class="asc-card-title">Finance, Grants and Fraud</span>
+<span class="asc-card-text">Payments, bank details, grant ranking and fraud flags.</span>
 </a>
 
-<a class="asc-task-card" href="research-and-evaluation/" markdown="1">
+<a class="asc-task-card" href="research-and-evaluation/">
 <span class="asc-task-meta">Evidence and learning</span>
-
-### Research and Evaluation
-
-Survey themes, interviews, anonymisation and policy evidence.
+<span class="asc-card-title">Research and Evaluation</span>
+<span class="asc-card-text">Survey themes, interviews, anonymisation and policy evidence.</span>
 </a>
 
-<a class="asc-task-card" href="translation-accessibility-and-inclusion/" markdown="1">
+<a class="asc-task-card" href="translation-accessibility-and-inclusion/">
 <span class="asc-task-meta">Inclusive access</span>
-
-### Translation and Inclusion
-
-Accessible drafts, translation checks and sensitive contexts.
+<span class="asc-card-title">Translation and Inclusion</span>
+<span class="asc-card-text">Accessible drafts, translation checks and sensitive contexts.</span>
 </a>
 
-<a class="asc-task-card" href="website-code-and-analytics/" markdown="1">
+<a class="asc-task-card" href="website-code-and-analytics/">
 <span class="asc-task-meta">Digital delivery</span>
-
-### Website, Code and Analytics
-
-Code help, analytics, cookies, security and public tools.
+<span class="asc-card-title">Website, Code and Analytics</span>
+<span class="asc-card-text">Code help, analytics, cookies, security and public tools.</span>
 </a>
 
 </div>
