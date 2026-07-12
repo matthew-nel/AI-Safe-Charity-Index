@@ -9,6 +9,7 @@ This file records significant changes to AI Safe Charity Index.
 - Initial public repository standards are being prepared.
 - Core knowledge base architecture is being documented.
 - Public guidance pages are under development.
+- Root-level Markdown specification corpus added as the project blueprint for future implementation work.
 
 ### Known Limitations
 
@@ -35,4 +36,3 @@ Created the foundation operating system for the AI Safe Charity Index.
 - Most guidance pages are section stubs awaiting conversion from the specification corpus.
 - Source and claim registers are not yet published.
 - Frontmatter validation is not yet automated.
-

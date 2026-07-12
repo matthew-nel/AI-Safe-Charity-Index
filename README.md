@@ -31,6 +31,12 @@ This repository uses:
 - GitHub Actions
 - GitHub Pages
 
+## Project Specification Corpus
+
+The numbered Markdown files in the repository root are the project blueprint. They contain the product vision, information architecture, publishing standards, evidence model, content specifications, governance model and draft page content.
+
+Use those files to drive implementation decisions before adding or restructuring public pages in `docs/`.
+
 ## Local Development
 
 ```bash
@@ -45,4 +51,3 @@ Then open `http://127.0.0.1:8000`.
 Contributions are welcome from charity staff, trustees, volunteers, researchers, data-protection professionals, safeguarding specialists, digital practitioners and accessibility reviewers.
 
 Please read `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` before opening an issue or pull request.
-
