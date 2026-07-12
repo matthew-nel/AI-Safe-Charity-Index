@@ -130,6 +130,12 @@ claim_ids: []
 <span class="asc-card-text">Stop the use, preserve facts and choose the data, safeguarding, cyber or content route.</span>
 </a>
 
+<a class="asc-route-card" href="research-and-community/evidence-snapshot-2026/">
+<span class="asc-card-label">Latest research</span>
+<span class="asc-card-title">Read the 2026 Evidence Snapshot</span>
+<span class="asc-card-text">Twenty findings from the July research packs on adoption, governance, trust, incidents and tool controls.</span>
+</a>
+
 </div>
 
 <div class="asc-callout" markdown="1">

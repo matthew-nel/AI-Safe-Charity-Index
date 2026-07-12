@@ -78,6 +78,18 @@ A no-training commitment is useful, but it answers only one question. You still 
 - lawful purpose
 - charity-controlled settings
 
+## July 2026 Tool-Control Findings
+
+The latest tool-control matrix found a consistent pattern across major workplace AI products:
+
+- business and enterprise plans usually have stronger controls than consumer accounts
+- consumer accounts remain unsuitable for charity work involving personal, confidential, safeguarding, HR, donor or case information
+- retention, deletion, audit logs, SSO, SCIM, DPA terms and subprocessors vary by vendor and plan
+- connector safety depends heavily on the underlying permissions in SharePoint, OneDrive, Google Drive, Slack, Notion, email and CRM systems
+- charity discounts or nonprofit access may exist, but discounted access does not remove the need for risk assessment
+
+Treat official vendor documentation as necessary evidence for features and terms, not as independent proof that a tool is safe for a particular charity use.
+
 ## Minimum Account Evidence
 
 Keep a dated record of:

@@ -24,6 +24,15 @@ feedback_enabled: true
 
 AI must sit inside the charity's safeguarding system, not alongside it.
 
+## July 2026 Evidence Update
+
+The latest safeguarding research supports a strict boundary:
+
+- AI may support administrative work only where information is anonymised, approved and reviewed by trained staff.
+- AI must not replace professional judgement, safeguarding escalation, crisis support or human triage.
+- General-purpose AI should not receive safeguarding case notes, live disclosures, identifiable details about children or adults at risk, or special-category information.
+- Any beneficiary-facing AI service needs safeguarding review, data-protection review, testing, monitoring, human handoff and an incident route before launch.
+
 ## Red by Default
 
 Treat these as Red for general-purpose or unapproved AI tools:
@@ -57,4 +66,3 @@ Treat these as Red for general-purpose or unapproved AI tools:
 
 - [Charity Commission: Safeguarding and protecting people for charities and trustees](https://www.gov.uk/guidance/safeguarding-and-protecting-people-for-charities-and-trustees)
 - [Charity Commission: Charities and Artificial Intelligence](https://charitycommission.blog.gov.uk/2024/04/02/charities-and-artificial-intelligence/)
-

@@ -24,6 +24,14 @@ feedback_enabled: true
 
 AI that interacts with beneficiaries is not comparable to AI that drafts internal copy. The consequences of wrong, harmful or inaccessible output can be serious.
 
+## July 2026 Evidence Update
+
+The latest research packs separate safer administrative support from high-risk beneficiary-facing use:
+
+- Safer uses are usually internal, anonymised and human-reviewed, such as grouping anonymised feedback or drafting service-information summaries from approved sources.
+- Higher-risk uses include public chatbots, helpline triage, personalised recommendations, translation of sensitive conversations and any tool connected to case records.
+- Red-line uses include crisis support, counselling, safeguarding advice, medical advice, legal advice, automated eligibility decisions or autonomous triage without trained human review.
+
 ## Four Levels of Use
 
 | Level | Example | Default risk |
@@ -64,4 +72,3 @@ Do not use a general-purpose AI tool as:
 - [Charity Commission: Safeguarding and protecting people](https://www.gov.uk/guidance/safeguarding-and-protecting-people-for-charities-and-trustees)
 - [UK Government: Data and AI Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-and-ai-ethics-framework)
 - [NHS England: Artificial intelligence information governance guidance](https://digital.nhs.uk/data-and-information/information-governance/guidance/artificial-intelligence)
-

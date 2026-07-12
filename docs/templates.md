@@ -22,6 +22,8 @@ claim_ids: []
 
 These templates are practical starting points. They do not replace legal, safeguarding, data-protection, employment or procurement advice.
 
+[Open the AI Governance Template Pack](governance/governance-templates.md){ .md-button .md-button--primary }
+
 ## Operational Templates
 
 | Template | Use it when | Owner |

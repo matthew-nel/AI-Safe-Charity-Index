@@ -50,6 +50,19 @@ A simple assurance report can include:
 - user access and offboarding checks
 - planned retirements or changes
 
+## July 2026 Assurance Measures
+
+Trustees should be able to see, at least quarterly for larger or higher-risk organisations:
+
+| Measure | What trustees should ask |
+| --- | --- |
+| AI policy | Is there a board-approved policy covering approved uses, prohibited uses, data, safeguarding, procurement and incidents? |
+| AI use register | What tools and use cases exist, who owns them and when were they reviewed? |
+| DPIAs and risk assessments | Which AI uses involve personal data, profiling, connectors, beneficiaries, children or adults at risk? |
+| Training | Have staff, volunteers and trustees been trained on the charity's AI rules? |
+| Incidents and near misses | What went wrong, what was learned and what changed? |
+| Connectors | Which tools can search internal files, email, CRM or case systems, and how are permissions controlled? |
+
 ## When Trustees Should Be Involved
 
 Bring a use to trustees when it may materially affect:

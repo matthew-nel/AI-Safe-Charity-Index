@@ -64,6 +64,18 @@ Many AI incidents need more than one route.
 - What control failed?
 - What should change before the tool is used again?
 
+## Common Root Causes
+
+The July 2026 incident research highlighted recurring causes that charities should look for during reviews:
+
+- lack of human oversight or qualified review
+- overreliance on AI for health, legal, safeguarding or specialist advice
+- hallucinated facts, fabricated citations or unsupported claims
+- automation bias, where people defer to the AI output without challenge
+- biased or incomplete data affecting triage, profiling or recommendations
+- connectors exposing files because source permissions were already too broad
+- unclear ownership of approval, monitoring, escalation and deletion
+
 ## Personal-Data Breach Assessment
 
 Not every AI incident is a reportable personal-data breach. If a personal-data breach is likely to result in a risk to people's rights and freedoms, the charity should normally notify the ICO within 72 hours of becoming aware of it.

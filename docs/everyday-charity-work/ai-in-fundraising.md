@@ -26,6 +26,14 @@ AI can help fundraisers draft, plan, test and summarise. It can also create risk
 
 The Fundraising Regulator says charitable fundraising institutions remain responsible and accountable for AI use in fundraising, including AI-generated outputs they use.
 
+## July 2026 Evidence Update
+
+The latest research packs reinforce three practical fundraising rules:
+
+- AI can be useful for drafts, structure, research and first-pass copy, but the charity remains accountable for accuracy, tone and truthfulness.
+- Donor segmentation, personalised asks, wealth screening, supporter profiling and automated stewardship changes should be treated as Amber or Red depending on data, transparency and human oversight.
+- Synthetic beneficiary stories or AI-generated images must not be presented as real experience. If synthetic or composite material is used at all, it needs clear labelling, senior review and a trust-risk check.
+
 <div class="risk-card risk-green" markdown="1">
 
 ## Green Uses

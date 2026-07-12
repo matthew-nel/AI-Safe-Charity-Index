@@ -27,6 +27,36 @@ AI Safe Charity Index was originally created by **Matthew Nel** as an open, evid
 [Connect with Matthew on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
 [Request Collaborator Access](../about/contact.md#request-collaborator-access){ .md-button }
 
+## July 2026 Research Additions
+
+<div class="asc-route-grid" markdown="1">
+
+<a class="asc-route-card" href="evidence-snapshot-2026/">
+<span class="asc-card-label">Evidence snapshot</span>
+<span class="asc-card-title">Twenty 2026 findings</span>
+<span class="asc-card-text">A public synthesis of adoption, governance, public trust, safeguarding, tool controls and connector risks.</span>
+</a>
+
+<a class="asc-route-card" href="source-library/">
+<span class="asc-card-label">Sources</span>
+<span class="asc-card-title">Source library</span>
+<span class="asc-card-text">Curated links to regulators, sector research, safeguarding evidence and official vendor documentation.</span>
+</a>
+
+<a class="asc-route-card" href="evidence-system/">
+<span class="asc-card-label">Contributors</span>
+<span class="asc-card-title">Evidence system</span>
+<span class="asc-card-text">Evidence levels, contribution rules, source submission checks and review expectations.</span>
+</a>
+
+<a class="asc-route-card" href="research-gaps/">
+<span class="asc-card-label">Research agenda</span>
+<span class="asc-card-title">Gaps and priorities</span>
+<span class="asc-card-text">Priority questions for charity AI governance, beneficiary views, incidents, connectors and public trust.</span>
+</a>
+
+</div>
+
 ## Research Interests
 
 The project welcomes research conversations on:

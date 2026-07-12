@@ -99,10 +99,15 @@ nav:
       - AI incidents: governance/incidents.md
   - Templates:
       - templates.md
+      - AI governance templates: governance/governance-templates.md
   - Learning Paths:
       - learning-paths/index.md
   - Research and Community:
       - research-and-community/index.md
+      - 2026 evidence snapshot: research-and-community/evidence-snapshot-2026.md
+      - Source library: research-and-community/source-library.md
+      - Evidence system: research-and-community/evidence-system.md
+      - Research gaps and priorities: research-and-community/research-gaps.md
   - Updates:
       - updates/index.md
       - July 2026 research update: updates/2026-07.md
