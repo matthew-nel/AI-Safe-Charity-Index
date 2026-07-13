@@ -30,8 +30,8 @@ The project is being developed as an open, research-led resource for UK charitie
 
 <div class="asc-profile-actions" markdown="1">
 
-[Connect on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
-[Contribute Research](../research-and-community/index.md){ .md-button }
+[Join Safe AI for UK Charities](https://www.linkedin.com/groups/26300103/){ .md-button .md-button--primary }
+[Contribute Research](https://www.linkedin.com/groups/26300103/){ .md-button }
 
 </div>
 
@@ -55,7 +55,7 @@ Please avoid sharing personal data, safeguarding information, confidential chari
 
 People who want to contribute regularly can join the **Safe AI for UK Charities** public LinkedIn group and start from there. It keeps collaboration project-focused and avoids routing every request through a personal profile.
 
-For GitHub collaborator access, use the group or the contact route and include:
+For GitHub collaborator access, start in the group and include:
 
 - your GitHub username
 - your name and organisation, if relevant
