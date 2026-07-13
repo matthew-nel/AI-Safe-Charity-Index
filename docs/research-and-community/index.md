@@ -22,7 +22,7 @@ claim_ids: []
 
 This section invites research, feedback and practical collaboration on safer AI use in charities. The project is an open, research-led resource for UK charities.
 
-[Request Collaborator Access](../about/contact.md#request-collaborator-access){ .md-button }
+[Join the Community Group](https://www.linkedin.com/groups/26300103/){ .md-button }
 
 ## July 2026 Research Additions
 
@@ -83,7 +83,7 @@ Do not submit personal data, safeguarding case details, confidential charity mat
 
 ## Becoming a Collaborator
 
-If you want to contribute regularly, request a GitHub collaborator invite through the contact page.
+If you want to contribute regularly, join the **Safe AI for UK Charities** public LinkedIn group. GitHub collaborator access can follow once a contribution area is agreed.
 
 Include:
 
@@ -96,7 +96,8 @@ Suggested subject line:
 
 > AI Safe Charity Index collaborator invite request
 
-[Request Collaborator Access](../about/contact.md#request-collaborator-access){ .md-button .md-button--primary }
+[Join Safe AI for UK Charities](https://www.linkedin.com/groups/26300103/){ .md-button .md-button--primary }
+[Contact the Project](../about/contact.md){ .md-button }
 
 Do not include personal data, safeguarding case details, confidential charity information or private research responses in the first message.
 

@@ -140,7 +140,7 @@ claim_ids: []
 <a class="asc-route-card" href="about/contact/">
 <span class="asc-card-label">Help improve it</span>
 <span class="asc-card-title">Contact or Collaborate</span>
-<span class="asc-card-text">Suggest a correction, share a reliable source, request collaborator access or discuss research on AI policy in charities.</span>
+<span class="asc-card-text">Suggest a correction, share a reliable source, join the public community group or discuss research on AI policy in charities.</span>
 </a>
 
 </div>
@@ -160,7 +160,7 @@ Useful contributions include corrections, reliable sources, practical examples, 
 <div class="asc-button-row" markdown="1">
 
 [Contact the Project](about/contact.md){ .md-button .md-button--primary }
-[Request Collaborator Access](about/contact.md#request-collaborator-access){ .md-button }
+[Join the Community Group](https://www.linkedin.com/groups/26300103/){ .md-button }
 [Research and Community](research-and-community/index.md){ .md-button }
 
 </div>

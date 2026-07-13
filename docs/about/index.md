@@ -30,7 +30,8 @@ The project is guided by evidence, plain English, charity relevance, accessibili
 
 AI Safe Charity Index was originally created by **Matthew Nel**.
 
-[Connect with Matthew on LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
+[Contact the Project](contact.md){ .md-button .md-button--primary }
+[Join Safe AI for UK Charities](https://www.linkedin.com/groups/26300103/){ .md-button }
 
 ## Open Collaboration
 

@@ -53,9 +53,9 @@ Please avoid sharing personal data, safeguarding information, confidential chari
 
 ## Request Collaborator Access
 
-People who want to contribute regularly can ask Matthew to add them as GitHub collaborators by invite. Use LinkedIn for the first request so Matthew can screen collaborator requests before sharing any direct email route.
+People who want to contribute regularly can join the **Safe AI for UK Charities** public LinkedIn group and start from there. It keeps collaboration project-focused and avoids routing every request through a personal profile.
 
-To request collaborator access, contact Matthew and include:
+For GitHub collaborator access, use the group or the contact route and include:
 
 - your GitHub username
 - your name and organisation, if relevant
@@ -68,9 +68,10 @@ Suggested subject line:
 
 > AI Safe Charity Index collaborator invite request
 
-[Request via LinkedIn](https://www.linkedin.com/in/matthewjamesnel/){ .md-button .md-button--primary }
+[Join Safe AI for UK Charities](https://www.linkedin.com/groups/26300103/){ .md-button .md-button--primary }
+[Research and Community](../research-and-community/index.md){ .md-button }
 
-Do not include personal data, safeguarding case details, confidential charity information or private research responses in the initial message. If a conversation needs to move to email, Matthew can share an email address privately after the first contact.
+Do not include personal data, safeguarding case details, confidential charity information or private research responses in the initial message.
 
 ## How GitHub Invites Work
 
